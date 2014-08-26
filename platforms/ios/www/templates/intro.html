@@ -1,0 +1,50 @@
+<ion-view title="Welcome!">
+<!-- Create the nav page, and bind left and right buttons that will update in the nav bar as
+       we progress through the tutorial
+  -->
+    
+    <!-- <ion-nav-page id="intro-page" left-buttons="leftButtons" right-buttons="rightButtons"> -->
+
+    <!-- create the slidebox. Listen for on-slide-changed events we will wire up later. -->
+    <ion-slide-box on-slide-changed="slideChanged(index)">
+
+      <!-- first slide -->
+      <ion-slide>
+        <h3>Welcome to the United Benefit Advisors' 2014 Fall Meeting &amp; Expo!</h3>
+        <div id="logo">
+          <img src="http://mobile.ubabenefits.com/portals/0/Images/UBALogo%20_Signature_Vertical_Blue_RGB.svg" style="width:80%; height:auto;"/>
+        </div>
+        <p>
+          This application is for UBA Meeting attendees only. You must be a registered attendee or a UBA Partner to use this application.
+        </p>
+        <a ui-sref="app.schedule" class="button button-clear button-positive">
+          Skip Intro
+        </a>
+      </ion-slide>
+
+      <!-- second slide -->
+      <ion-slide>
+        <h3>Shared Wisdom. Powerful Results.</h3>
+        
+        <div id="list">
+          <h5>What you can find:</h5>
+          <ol>
+            <li>Meeting Schedule</li>
+            <li>Evalutions</li>
+            <li>Presentations</li>
+            <li>And More!</li>
+          </ol>
+        </div>
+      </ion-slide>
+
+      <!-- third slide -->
+      <ion-slide>
+        <h4>To get to the menu, either tap on the Menu Icon on the top left corner or swipe left to right anywhere on the screen.</h4>
+        <p><i>Content subject to change.</i></p>
+        <a ui-sref="app.schedule" class="button button-clear button-positive">
+          Get Started!
+        </a>
+      </ion-slide>
+    </ion-slide-box>
+    <!-- </ion-nav-page> -->
+</ion-view>

@@ -1,0 +1,194 @@
+[
+	{
+		"id": 1,
+		"name": "AmWins Group Benefits",
+		"image": "http://mobile.ubabenefits.com/Portals/0/Images/amwins_benefit-group.jpg",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 2,
+		"name": "Blueprint Consulting Group",
+		"image": "http://mobile.ubabenefits.com/Portals/0/Images/Blueprint-logo-new2.png",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 3,
+		"name": "Reliance Standard",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Reliance_Standard_notag2.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 4,
+		"name": "Symetra",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Symetra_2012_web.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 5,
+		"name": "Principal Financial Group",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/principal_financial_group.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 6,
+		"name": "UMR",
+		"image": "http://mobile.ubabenefits.com/portals/0/UMR.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 7,
+		"name": "Prescription Care Management",
+		"image": "http://www.ubabenefits.com/Portals/0/Logos/Partners/prescription_care_management.jpg",
+		"partnerType": "Certified Solution"
+	},	
+	
+	{
+		"id": 8,
+		"name": "Ethicare",
+		"image": "http://mobile.ubabenefits.com/Portals/0/Images/ethicare-advisors.jpg",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 9,
+		"name": "Unum",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Unum_2010_Final.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 10,
+		"name": "Mutual of Omaha",
+		"image": "http://mobile.ubabenefits.com/portals/0/MutualOmaha.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 11,
+		"name": "The Standard",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Standard%20Logo.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 12,
+		"name": "Sunlife",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/SunLife_2011.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 13,
+		"name": "The Hartford",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Hartford%202009_2.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 14,
+		"name": "Touchpoints",
+		"image": "http://wn.ubabenefits.com/Portals/26/Graphics/Touchpoints_logo_smallx.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 15,
+		"name": "The Guardian",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/Guardian%2003-04.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 16,
+		"name": "VSP Vision Care",
+		"image": "http://www.ubabenefits.com/Portals/0/Logos/Partners/VSP-logo.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 17,
+		"name": "HR Pro",
+		"image": "http://mobile.ubabenefits.com/portals/0/Images/HRPro.png",
+		"partnerType": "Partner Provided Solution"
+	},
+	
+	{
+		"id": 18,
+		"name": "Benefits Passport",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/BenefitPassport.jpg",
+		"partnerType": "UBA Solutions"
+	},
+	
+	{
+		"id": 19,
+		"name": "Compliance Dashboard",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/ComplianceDashboard_Logo.jpg",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 19,
+		"name": "Colonial Life",
+		"image": "http://www.ubabenefits.com/portals/0/Logos/Partners/CL-2013-logo-NOtag-2color-process.png",
+		"partnerType": "Strategic Partner"
+	},
+	
+	{
+		"id": 20,
+		"name": "GeoBlue",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/GeoBlue%20logo.jpg",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 21,
+		"name": "Castlight Health",
+		"image": "http://www.ubabenefits.com/Portals/0/Logos/Partners/Castlight-Logo.png",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 22,
+		"name": "HR Services, Inc.",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/HR_Service_Inc_Logo_2012.jpg",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 23,
+		"name": "Benefitbay",
+		"image": "http://mobile.ubabenefits.com/portals/0/benefitbay.png",
+		"partnerType": "Partner Provided Solution"
+	},
+	
+	{
+		"id": 24,
+		"name": "TeleContact Resource Solutions",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/TeleContactinc2.jpg",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 25,
+		"name": "PT Services Group",
+		"image": "http://wn4.ubabenefits.com/portals/0/Images/Solutions/PTServices.png",
+		"partnerType": "Certified Solution"
+	},
+	
+	{
+		"id": 26,
+		"name": "ThinkHR",
+		"image": "http://mobile.ubabenefits.com/Portals/0/Images/ThinnkHR_logo.png",
+		"partnerType": "Certified Solution"
+	}
+
+
+
+
+]

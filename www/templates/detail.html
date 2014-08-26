@@ -1,0 +1,32 @@
+<ion-view title="Session">
+
+	<ion-nav-buttons side="left">
+		<ion-nav-back-button class="button-light" ng-click="goBack()">
+      		<i class="icon ion-ios7-arrow-back"></i> Schedule
+      	</ion-nav-back-button>
+	</ion-nav-buttons>
+
+	<ion-content class="has-header padding">
+	
+		<div ng-controller="SessionDetailCtrl">
+			
+			<div class="card">
+				
+				<div class="item item-divider">
+					<h2>{{session.name}}</h2>
+        			<p>{{session.room}} | {{session.day}}&nbsp;{{session.time}}</p>
+				</div>
+				
+				<div class="item item-body">
+					<p>{{session.snippet}}</p>
+				</div>
+				
+			</div>
+			<button class="button button-positive" ui-sref="app.feedback-detail({evaluationId: feedback.id })">Feedback</button>
+			<button class="button button-positive" ui-sref="app.presentation-detail({presentationId: presentation.id })">Presentation</button>
+			<a class="button button-positive" target="_blank" ng-href="http://www.google.com" onclick="window.open('http://www.google.com', '_blank', 'location=yes'); return false;">Click Me</a>
+		</div>
+		
+  	</ion-content>
+
+</ion-view>

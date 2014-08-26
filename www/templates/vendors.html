@@ -1,0 +1,19 @@
+<ion-view title="Vendors">
+
+	<ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon" style="color:#fff;"></button>
+  </ion-nav-buttons>
+	
+	<ion-content>
+    	
+    	<ion-list>
+        	<ion-item ng-repeat="vendor in vendors" type="item-text-wrap" ui-sref="app.vendor-detail({vendorId: vendor.id })" class="item item-thumbnail-left">
+				<img ng-src="{{ vendor.image }}">
+          		<h2>{{ vendor.name }}</h2>
+          		<p>{{ vendor.partnerType }}</p>
+        	</ion-item>
+      </ion-list>
+    	
+  	</ion-content>
+  	
+</ion-view>

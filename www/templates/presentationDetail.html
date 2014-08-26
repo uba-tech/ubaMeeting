@@ -1,0 +1,19 @@
+<ion-view title="Presentation">
+
+	<ion-nav-buttons side="left">
+		<ion-nav-back-button class="button-light" ng-click="goBack()">
+      		<i class="icon ion-ios7-arrow-back"></i> Schedule
+      	</ion-nav-back-button>
+	</ion-nav-buttons>
+
+	<ion-content class="has-header padding">
+	
+		<div ng-controller="PresentationDetailCtrl">
+			
+			<h2>{{presentation.name}}</h2>
+			
+		</div>
+		
+  	</ion-content>
+
+</ion-view>
