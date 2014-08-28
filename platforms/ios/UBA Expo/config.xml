@@ -34,20 +34,20 @@
     <feature name="InAppBrowser">
         <param name="ios-package" value="CDVInAppBrowser" />
     </feature>
-    <icon height="60" src="icons/ios/icon-60.png" width="60" />
-    <icon height="120" src="icons/ios/icon-60@2x.png" width="120" />
-    <icon height="76" src="icons/ios/icon-76.png" width="76" />
-    <icon height="152" src="icons/ios/icon-76@2x.png" width="152" />
-    <icon height="40" src="icons/ios/icon-40.png" width="40" />
-    <icon height="80" src="icons/ios/icon-40@2x.png" width="80" />
-    <icon height="57" src="icons/ios/icon.png" width="57" />
-    <icon height="114" src="icons/ios/icon@2x.png" width="114" />
-    <icon height="72" src="icons/ios/icon-72.png" width="72" />
-    <icon height="144" src="icons/ios/icon-72@2x.png" width="144" />
-    <icon height="29" src="icons/ios/icon-small.png" width="29" />
-    <icon height="58" src="icons/ios/icon-small@2x.png" width="58" />
-    <icon height="50" src="icons/ios/icon-50.png" width="50" />
-    <icon height="100" src="icons/ios/icon-50@2x.png" width="100" />
+    <icon height="60" src="img/res/icons/ios/icon-60.png" width="60" />
+    <icon height="120" src="res/icons/ios/icon-60@2x.png" width="120" />
+    <icon height="76" src="img/res/icons/ios/icon-76.png" width="76" />
+    <icon height="152" src="res/icons/ios/icon-76@2x.png" width="152" />
+    <icon height="40" src="img/res/icons/ios/icon-40.png" width="40" />
+    <icon height="80" src="img/res/icons/ios/icon-40@2x.png" width="80" />
+    <icon height="57" src="img/res/icons/ios/icon.png" width="57" />
+    <icon height="114" src="img/res/icons/ios/icon@2x.png" width="114" />
+    <icon height="72" src="img/res/icons/ios/icon-72.png" width="72" />
+    <icon height="144" src="img/icons/ios/icon-72@2x.png" width="144" />
+    <icon height="29" src="img/res/icons/ios/icon-small.png" width="29" />
+    <icon height="58" src="img/res/icons/ios/icon-small@2x.png" width="58" />
+    <icon height="50" src="img/res/icons/ios/icon-50.png" width="50" />
+    <icon height="100" src="img/res/icons/ios/icon-50@2x.png" width="100" />
     <name>UBA Expo</name>
     <description>
         2014 UBA Fall Meeting &amp; Expo

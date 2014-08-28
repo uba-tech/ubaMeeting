@@ -6,57 +6,63 @@ angular.module('starter.services', [])
     .factory('Schedule', function () {
         // Might use a resource here that returns a JSON array
 
-        // Some fake testing data
         var events = [
             {
                 "id": 0,
                 "imageUrl": " ",
                 "name": "NAHU PPACA Certification Program",
-                "speaker": "Speaker 1",
+                "speaker": " ",
                 "day": "Sunday",
                 "time": "8:00 am - 4:00 pm",
-                "room": " ",
+                "room": "Guggenheim",
                 "snippet": "NAHU PPACA Certification Program Description."
             },
             {
                 "id": 1,
                 "imageUrl": " ",
-                "name": "DataSmart Vertical",
-                "speaker": "Speaker 2",
+                "name": "DataSmart Steering Committe",
+                "speaker": " ",
                 "day": "Sunday",
                 "time": "8:00 am - 12:00 pm",
-                "room": " ",
+                "room": "Avedon C",
                 "snippet": "DataSmart Vertical Description."
             },
             {
                 "id": 2,
                 "imageUrl": " ",
                 "name": "Retirement Vertical",
-                "speaker": "Speaker 3",
+                "speaker": " ",
                 "day": "Sunday",
                 "time": "12:00 pm - 1:30 pm",
-                "room": " ",
+                "room": "Gallery 424",
                 "snippet": "Retirement Vertical Description."
             },
             {
                 "id": 3,
                 "imageUrl": " ",
                 "name": "Regional UBA Meetings",
-                "speaker": "Speaker 4",
+                "speaker": " ",
                 "day": "Sunday",
                 "time": "2:00 pm - 4:00 pm",
-                "room": " ",
+                "room": "Various",
                 "snippet": "Regional UBA Meetings Description."
             },
             {
                 "id": 4,
                 "imageUrl": " ",
                 "name": "First-Time Attendee Orientation",
-                "speaker": "Speaker 5",
+                "speaker": "Les McPhearson - CEO, United Benefit Advisors",
+                "speaker2": "Matt Kistler - VP of Business Development, United Benefit Advisors",
+                "speaker3": "Scott Borders - IT Director, United Benefit Advisors",
+                "speaker4": "Paul Zumbrook - Senior VP, Partner Relations, United Benefit Advisors",
+                "speaker5": "Jason Reeves - Survey Director, United Benefit Advisors",
+                "speaker6": "Linda Rowings - Chief Compliance Officer, United Benefit Advisors",
+                "speaker7": "Bill Olson - Chief Marketing Director, United Benefit Advisors",
                 "day": "Sunday",
                 "time": "2:00 pm - 3:30 pm",
-                "room": " ",
-                "snippet": "First-Time Attendee Orientation Description."
+                "room": "Montrose",
+                "audience": "New Partners and first-time meeting attendees",
+                "snippet": "This session, designed for new Partners and first-time meeting attendees, will provide some history of UBA, an overview of the benefits of Partnership, and touch on some of the most utilized Partner tools and services."
             },
             {
                 "id": 5,
@@ -65,7 +71,7 @@ angular.module('starter.services', [])
                 "speaker": " ",
                 "day": "Sunday",
                 "time": "4:00 pm - 6:00 pm",
-                "room": " ",
+                "room": "Guggenheim",
                 "snippet": "Business Meeting (Principals only) Description."
             },
             {
@@ -75,7 +81,7 @@ angular.module('starter.services', [])
                 "speaker": " ",
                 "day": "Sunday",
                 "time": "6:00 pm - 7:30 pm",
-                "room": " ",
+                "room": "Foyer",
                 "snippet": "Welcome Reception Description."
             },
             {
@@ -85,7 +91,7 @@ angular.module('starter.services', [])
                 "speaker": " ",
                 "day": "Sunday",
                 "time": "7:30 pm",
-                "room": " ",
+                "room": "Getty",
                 "snippet": "Friends of Bill W. Description."
             },
             {
@@ -95,41 +101,52 @@ angular.module('starter.services', [])
                 "speaker": " ",
                 "day": "Monday",
                 "time": "7:30 am - 9:00 am",
-                "room": " ",
+                "room": "Louvre",
                 "snippet": "Breakfast and Networking Description."
             },
             {
                 "id": 9,
                 "imageUrl": " ",
-                "name": "Health Care Provider Vertical",
+                "name": "benefitbay Breakout Session",
                 "speaker": " ",
                 "day": "Monday",
-                "time": "7:30 am - 8:30 am",
-                "room": " ",
-                "snippet": "Health Care Provider Vertical Description."
+                "time": "7:30 am - 8:00 am",
+                "room": "Gallery 424",
+                "snippet": "benefitbay Breakout Session Description."
             },
             {
                 "id": 10,
                 "imageUrl": " ",
-                "name": "Business Meeting",
-                "speaker": " ",
+                "name": "Health Care Provider Vertical",
+                "speaker": "Kathy Colbert - Marketing & Communications Coordinator, Cowden Associates, Inc.",
+                "speaker2": "Peter Freska - Benefits Consultant, The LBL Group",
                 "day": "Monday",
-                "time": "9:00 am - 9:15 am",
-                "room": " ",
-                "snippet": "Business Meeting Description."
+                "time": "7:30 am - 8:30 am",
+                "room": "Metropolitan",
+                "snippet": "Health Care Provider Vertical Description."
             },
             {
                 "id": 11,
                 "imageUrl": " ",
-                "name": "Main Session",
-                "speaker": "Janet Trautwein, EVP & CEO, NAHU",
+                "name": "CEO Kickoff",
+                "speaker": " ",
                 "day": "Monday",
-                "time": "9:15 am - 10:15 am",
-                "room": " ",
-                "snippet": "Main Session Description."
+                "time": "9:00 am - 9:15 am",
+                "room": "Guggenheim",
+                "snippet": "CEO Kickoff Description."
             },
             {
                 "id": 12,
+                "imageUrl": " ",
+                "name": "Legislative Update and Industry Outlook",
+                "speaker": "Janet Trautwein - CEO, National Association of Healthcare Underwriters",
+                "day": "Monday",
+                "time": "9:15 am - 10:15 am",
+                "room": "Guggenheim",
+                "snippet": "Main Session Description."
+            },
+            {
+                "id": 13,
                 "imageUrl": " ",
                 "name": "Break",
                 "speaker": " ",
@@ -139,108 +156,128 @@ angular.module('starter.services', [])
                 "snippet": "Break"
             },
             {
-                "id": 13,
-                "imageUrl": " ",
-                "name": "Marsh Berry Organic Growth",
-                "speaker": " ",
-                "day": "Monday",
-                "time": "10:30 am - 12:00 pm",
-                "room": " ",
-                "snippet": "Marsh Berry Organic Growth Description."
-            },
-            {
                 "id": 14,
                 "imageUrl": " ",
-                "name": "HIPAA Compliance",
-                "speaker": " ",
+                "name": "Confidently Investing to Drive Organic Growth",
+                "speaker": "Wayne Walkotten - CPA, CVA, Executive VP, MarshBerry",
                 "day": "Monday",
                 "time": "10:30 am - 12:00 pm",
-                "room": " ",
-                "snippet": "HIPAA Compliance Description."
+                "room": "Guggenheim",
+                "snippet": "Marsh Berry Organic Growth Description."
             },
             {
                 "id": 15,
                 "imageUrl": " ",
-                "name": "Technology (Wisdom Network 4, etc.)",
-                "speaker": " ",
+                "name": "HIP on HIPAA",
+                "speaker": "Kelly Hugh, JD - Human Resources Consultant, CIC Benefit Consulting Group",
+                "speaker2": "Andrea Kinkade - President and Owner, Kaminsky & Associates, Inc.",
+                "speaker3": "Josie Martinez - Partner and General Counsel, EBS Capstone",
+                "speaker4": "Lisa Scott - CEBS, Director, Compliance and Communications, Independent Benefit Services",
                 "day": "Monday",
                 "time": "10:30 am - 12:00 pm",
-                "room": " ",
-                "snippet": "Technology (Wisdom Network 4, etc.) Description."
+                "room": "Montrose",
+                "snippet": "HIPAA Compliance Description."
             },
             {
                 "id": 16,
                 "imageUrl": " ",
-                "name": "Mutual of Omaha (topic to be announced)",
-                "speaker": " ",
+                "name": "UBA Tech Talk",
+                "speaker": "Scott Borders - IT Director, United Benefit Advisors",
+                "speaker2": "Jon McAlister - Application Support Analyst, United Benefit Advisors",
+                "speaker3": "Kyle Hubbard - Software Developer, United Benefit Advisors",
                 "day": "Monday",
                 "time": "10:30 am - 12:00 pm",
-                "room": " ",
-                "snippet": "Mutual of Omaha (topic to be announced) Description."
+                "room": "Metropolitan",
+                "snippet": "Technology (Wisdom Network 4, etc.) Description."
             },
             {
                 "id": 17,
                 "imageUrl": " ",
-                "name": "Lunch with Linda",
-                "speaker": "Linda Rowings, J.D., Chief Compliance Officer, UBA",
+                "name": "'Breaking the Status Quo' - Focusing on the Actual Cost of Care",
+                "speaker": "Thomas Emerick - President, Emerick Consulting, LLC",
+                "speaker2": "Todd Covert - National Director, Special Products & Services, Mutual of Omaha",
                 "day": "Monday",
-                "time": "12:15 pm - 1:30 pm",
-                "room": " ",
-                "snippet": "Lunch with Linda Description."
+                "time": "10:30 am - 12:00 pm",
+                "room": "Teylers",
+                "snippet": "Mutual of Omaha (topic to be announced) Description."
             },
             {
                 "id": 18,
                 "imageUrl": " ",
-                "name": "General Session",
-                "speaker": "Rob Ruiz-Moss, Wellpoint",
-                "speakerTwo": "John Wiesler, Humana",
+                "name": "Lunch with Linda",
+                "speaker": "Linda Rowings, JD - Chief Compliance Officer, United Benefit Advisors",
                 "day": "Monday",
-                "time": "2:00 pm - 4:00 pm",
-                "room": " ",
-                "snippet": "General Session Description."
+                "time": "12:15 pm - 1:30 pm",
+                "room": "Louvre 1 & 2",
+                "snippet": "Lunch with Linda Description."
             },
             {
                 "id": 19,
+                "imageUrl": " ",
+                "name": "Exchange Evolution",
+                "speaker": "Rob Ruiz-Moss - Vice President, Exchange Strategies & Execution, WellPoint, Inc.",
+                "day": "Monday",
+                "time": "2:00 pm - 4:00 pm",
+                "room": "Guggenheim",
+                "snippet": "General Session Description."
+            },
+            {
+                "id": 20,
+                "imageUrl": " ",
+                "name": "Affordable Care Act Update: Today's Environment and Upcoming Provisions",
+                "speaker": "John Wiesler - Vice President and National Leader of Broker and General Sales Channel, Humana, Inc.",
+                "day": "Monday",
+                "time": "2:00 pm - 4:00 pm",
+                "room": "Guggenheim",
+                "snippet": "General Session Description."
+            },
+            {
+                "id": 21,
                 "imageUrl": " ",
                 "name": "PowerPaks",
                 "speaker": " ",
                 "day": "Monday",
                 "time": "4:00 pm - 6:00 pm",
-                "room": " ",
+                "room": "Various",
                 "snippet": "PowerPaks Description."
             },
             {
-                "id": 20,
+                "id": 22,
                 "imageUrl": " ",
                 "name": "Staff Roundtable – Q4 strategy, HR support for clients, Compliance",
                 "speaker": " ",
                 "day": "Monday",
                 "time": "4:30 pm - 6:00 pm",
-                "room": " ",
+                "room": "Louvre 1",
                 "snippet": "Staff Roundtable – Q4 strategy, HR support for clients, Compliance Description."
             },
             {
-                "id": 21,
+                "id": 23,
                 "imageUrl": " ",
                 "name": "All Star Producers",
-                "speaker": " ",
+                "speaker": "Daniel Foley - Employment Benefits Consultant, Innovative Benefit Planning, LLC",
+                "speaker2": "Dominic Franchini - CBC, Vice President, HORAN",
+                "speaker3": "Joe Moran - Business Development Manager, EBS Capstone",
+                "speaker4": "Scott Ripley - Employee Benefits Advisor, e3 Financial",
                 "day": "Monday",
                 "time": "4:30 pm - 6:00 pm",
-                "room": " ",
+                "room": "Louvre 2",
                 "snippet": "All Star Producers Description."
             },
             {
-                "id": 22,
+                "id": 24,
                 "imageUrl": " ",
-                "name": "Branding and Marketing",
-                "speaker": " ",
+                "name": "Exploring Marketing Approaches Through the Eyes of the Customer",
+                "speaker": "Marianne Stook - Senior Account Executive, Fisher Vista, LLC",
+                "speaker2": "Geoff Mukhtar - Communications Manager, United Benefit Advisors",
+                "speaker3": "Bill Olson - Chief Marketing Officer, United Benefit Advisors",
                 "day": "Monday",
                 "time": "4:30 pm - 6:00 pm",
-                "room": " ",
+                "room": "Louvre 3",
                 "snippet": "Branding and Marketing Description."
             },
             {
-                "id": 23,
+                "id": 25,
                 "imageUrl": " ",
                 "name": "Dine-Arounds",
                 "speaker": " ",
@@ -250,83 +287,90 @@ angular.module('starter.services', [])
                 "snippet": "Dine-Arounds Description."
             },
             {
-                "id": 24,
+                "id": 26,
                 "imageUrl": " ",
-                "name": "Rock Concert – sponsored by The Principal",
-                "speaker": " ",
+                "name": "UBApalooza – sponsored by The Principal",
+                "speaker": "Featuring 'Odd Man Out'",
                 "day": "Monday",
                 "time": "8:30 pm",
-                "room": " ",
+                "room": "Guggenheim",
                 "snippet": "Rock Concert – sponsored by The Principal Description."
             },
             {
-                "id": 25,
+                "id": 27,
                 "imageUrl": " ",
                 "name": "Breakfast & Networking",
                 "speaker": " ",
                 "day": "Tuesday",
                 "time": "7:30 am - 8:30 am",
-                "room": " ",
+                "room": "Louvre",
                 "snippet": "Breakfast & Networking Description."
             },
             {
-                "id": 26,
+                "id": 28,
                 "imageUrl": " ",
                 "name": "Business Meeting",
                 "speaker": " ",
                 "day": "Tuesday",
                 "time": "8:30 am - 9:00 am",
-                "room": " ",
+                "room": "Guggenheim",
                 "snippet": "Business Meeting Description."
-            },
-            {
-                "id": 27,
-                "imageUrl": " ",
-                "name": "General Session",
-                "speaker": "Dan Clark, CSP, CPAE, President & CEO, Clark Success Systems",
-                "day": "Tuesday",
-                "time": "9:00 am - 10:00 am",
-                "room": " ",
-                "snippet": "General Session Description."
-            },
-            {
-                "id": 28,
-                "imageUrl": " ",
-                "name": "HR Practice Build – Buy or Rent?",
-                "speaker": " ",
-                "day": "Tuesday",
-                "time": "10:15 am - 11:45 am",
-                "room": " ",
-                "snippet": "HR Practice Build – Buy or Rent? Description."
             },
             {
                 "id": 29,
                 "imageUrl": " ",
-                "name": "Colonial Life (topic to be announced)",
-                "speaker": " ",
+                "name": "The Art of Significance - Achieving the Level Beyond Success",
+                "speaker": "Dan Clark - CSP, CPAE, President & CEO, International High Performance Consulting Firm",
                 "day": "Tuesday",
-                "time": "10:15 am - 11:45 am",
-                "room": " ",
-                "snippet": "Colonial Life (topic to be announced) Description."
+                "time": "9:00 am - 10:00 am",
+                "room": "Guggenheim",
+                "snippet": "General Session Description."
             },
             {
                 "id": 30,
                 "imageUrl": " ",
-                "name": "Don’t Write Business the Old-Fashioned Way",
-                "speaker": " ",
+                "name": "HR Practice: Build, Buy, or Rent?",
+                "speaker": "Anita Nygaard - SPHR, MSOD, President, e365HR, Inc.",
+                "speaker2": "Suzanne Quintero - VP, iHR Outsourcing, Independent Benefit Services",
+                "speaker3": "Tina Ramey - Marketing and Business Development, VolkBell",
+                "speaker4": "Pamela Verrill - Vice President of Operations, Borislow Insurance",
                 "day": "Tuesday",
                 "time": "10:15 am - 11:45 am",
-                "room": " ",
-                "snippet": "Don’t Write Business the Old-Fashioned Way Description."
+                "room": "Louvre 1",
+                "snippet": "HR Practice Build – Buy or Rent? Description."
             },
             {
                 "id": 31,
                 "imageUrl": " ",
-                "name": "Captives",
-                "speaker": " ",
+                "name": "Unlock the Secrets of Voluntary Benefits",
+                "speaker": "Bob Ruff - Vice President, Broker Marketing Services, Colonial Life",
+                "speaker2": "Katie Dreiling - Assistant Vice President, National Broker Partners, Colonial Life",
                 "day": "Tuesday",
                 "time": "10:15 am - 11:45 am",
-                "room": " ",
+                "room": "Louvre 2",
+                "snippet": "Colonial Life (topic to be announced) Description."
+            },
+            {
+                "id": 32,
+                "imageUrl": " ",
+                "name": "Don’t Write Business the Old-Fashioned Way",
+                "speaker": "Deanna DeHart - Producer, Benefit Resource Group",
+                "speaker2": "Josh Fox - Founder and CEO, Bottom Line Concepts, LLC",
+                "speaker3": "Lisa Graziano - Marketing and Business Development Manager, EBS Capstone",
+                "speaker4": "Jeff Sams - LIC, Senior Vice President, Saginaw Bay Underwriters",
+                "day": "Tuesday",
+                "time": "10:15 am - 11:45 am",
+                "room": "Louvre 3",
+                "snippet": "Don’t Write Business the Old-Fashioned Way Description."
+            },
+            {
+                "id": 33,
+                "imageUrl": " ",
+                "name": "Captives",
+                "speaker": "Bill Drew - Partner, LHD Benefit Advisors",
+                "day": "Tuesday",
+                "time": "10:15 am - 11:45 am",
+                "room": "Teylers",
                 "snippet": "Captives Description."
             }
         ];

@@ -7,7 +7,7 @@
     <ion-content class="has-header">
 
 		<ion-list>
-	    	<ion-item ng-repeat="session in sessions" ui-sref="app.session-detail({ sessionId: session.id })">
+	    	<ion-item ng-repeat="session in sessions" ui-sref="app.session-detail({ sessionId: session.id })" class="item-text-wrap">
 	        	{{session.name}}
 	      	</ion-item>
 	    </ion-list>

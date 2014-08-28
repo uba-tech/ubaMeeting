@@ -12,8 +12,12 @@
 			
 			<div class="card">
 				
-				<div class="item item-divider">
+				<div class="item item-text-wrap item-divider">
 					<h2>{{session.name}}</h2>
+					<p>{{session.speaker}}</p>
+					<p>{{session.speaker2}}</p>
+					<p>{{session.speaker3}}</p>
+					<p>{{session.speaker4}}</p>
         			<p>{{session.room}} | {{session.day}}&nbsp;{{session.time}}</p>
 				</div>
 				
@@ -22,9 +26,8 @@
 				</div>
 				
 			</div>
-			<button class="button button-positive" ui-sref="app.feedback-detail({evaluationId: feedback.id })">Feedback</button>
-			<button class="button button-positive" ui-sref="app.presentation-detail({presentationId: presentation.id })">Presentation</button>
-			<a class="button button-positive" target="_blank" ng-href="http://www.google.com" onclick="window.open('http://www.google.com', '_blank', 'location=yes'); return false;">Click Me</a>
+			<a class="button button-positive" ng-href="#/app/feedback">Feedback</a>
+			<a class="button button-positive" ng-href="#/app/presentations">Presentation</a>
 		</div>
 		
   	</ion-content>

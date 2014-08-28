@@ -18,7 +18,7 @@
     	</div>
     	
     	<ion-list>
-	    	<ion-item ng-repeat="presentation in presentations" ng-click="window.open('{{presentation.url}}', '_blank', 'location=yes'); return false;">
+	    	<ion-item ng-repeat="presentation in presentations" ui-sref="{{ presentation.url }}">
 	        {{presentation.name}}
 	      	</ion-item>
 	    </ion-list>
