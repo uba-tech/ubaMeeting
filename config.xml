@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0"
+>
   <name>UBA Expo</name>
   <description>
         2014 UBA Fall Meeting &amp; Expo
@@ -17,7 +18,7 @@
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
   
-  <plugin name="InAppBrowser" value="CDVInAppBrowser" />
+  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
   
   
 
