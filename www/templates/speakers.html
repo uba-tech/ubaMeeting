@@ -17,11 +17,11 @@
       		</button>
     	</div>
     	
-    	<h1>Speakers</h1>
-    	
     	<ion-list>
-	    	<ion-item ng-repeat="speaker in speakers" ui-sref="app.speaker-detail({speakerId: speaker.id })">
-	        	{{speaker.name}}
+	    	<ion-item ng-repeat="speaker in speakers" ui-sref="app.speaker-detail({speakerId: speaker.speakerId })" class="item item-avatar">
+	    		<img ng-src="{{speaker.imageUrl}}"/>
+	        	{{speaker.speaker}}<br>
+	        	<p>{{speaker.title}} for {{speaker.company}}</p>
 	      	</ion-item>
 	    </ion-list>
     	

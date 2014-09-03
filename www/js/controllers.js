@@ -95,7 +95,7 @@ angular.module('starter.controllers', ['ionic'])
 	  };
 	})
 
-    .controller('AppCtrl', function ($scope, $ionicModal, $timeout) {
+    .controller('AppCtrl', function ($scope, $ionicModal, $timeout, $window) {
         // Form data for the login modal
         $scope.loginData = {};
 
@@ -126,7 +126,16 @@ angular.module('starter.controllers', ['ionic'])
                 $scope.closeLogin();
             }, 1000);
         };
+        
+        $scope.openUrl = function() {
+    		var ref = $window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_blank', 'location=yes');
+    	};
+    	
+    	$scope.openFeedback = function() {
+    		var refFeedback = $window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConFeedback/tabid/139/Default.aspx', '_blank', 'location=yes');
+    	};
     })
+    
 
     .controller('ScheduleCtrl', function ($scope, Schedule) {
         $scope.sessions = Schedule.all();
@@ -153,8 +162,12 @@ angular.module('starter.controllers', ['ionic'])
         $scope.speaker = Speakers.get($stateParams.speakerId);
     })
     
-    .controller('PresentationCtrl', function ($scope, Presentations) {
+    .controller('PresentationCtrl', function ($scope, $window, Presentations) {
         $scope.presentations = Presentations.all();
+        
+        $scope.openUrl = function() {
+    		var ref = $window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_blank', 'location=yes');
+    	};
     })
 
     .controller('PresentationDetailCtrl', function ($scope, $stateParams, Presentations) {
