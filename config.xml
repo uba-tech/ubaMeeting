@@ -17,6 +17,8 @@
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
   
+  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
+  
   
 
 	<platform name="ios">
