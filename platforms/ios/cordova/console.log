@@ -887,3 +887,4 @@ Terminating in response to SpringBoard's termination.
 2014-09-03 16:31:18.219 UBA Expo[77137:70b] Resetting plugins due to page load.
 2014-09-03 16:31:18.394 UBA Expo[77137:4617] ERROR: unable to get the receiver data from the DB!
 2014-09-03 16:31:18.914 UBA Expo[77137:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
+2014-09-04 11:10:26.881 UBA Expo[77137:70b] THREAD WARNING: ['InAppBrowser'] took '1632.020996' ms. Plugin should use a background thread.
