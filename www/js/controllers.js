@@ -166,7 +166,7 @@ angular.module('starter.controllers', ['ionic'])
         $scope.presentations = Presentations.all();
         
         $scope.openUrl = function() {
-    		var ref = $window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_blank', 'location=yes');
+    		var ref = $window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_blank', 'location=yes','closebuttoncaption=Done');
     	};
     })
 
