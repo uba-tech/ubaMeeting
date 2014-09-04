@@ -897,3 +897,11 @@ Terminating in response to SpringBoard's termination.
 2014-09-04 15:21:42.156 UBA Expo[78897:4613] ERROR: unable to get the receiver data from the DB!
 2014-09-04 15:21:43.181 UBA Expo[78897:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
 2014-09-04 15:23:01.567 UBA Expo[78897:70b] THREAD WARNING: ['InAppBrowser'] took '412.799316' ms. Plugin should use a background thread.
+2014-09-04 15:57:15.320 UBA Expo[79227:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-04 15:57:15.905 UBA Expo[79227:70b] Unlimited access to network resources
+2014-09-04 15:57:16.931 UBA Expo[79227:70b] [CDVTimer][keyboard] 0.133038ms
+2014-09-04 15:57:17.262 UBA Expo[79227:70b] [CDVTimer][statusbar] 330.489993ms
+2014-09-04 15:57:17.263 UBA Expo[79227:70b] [CDVTimer][TotalPluginStartup] 332.453012ms
+2014-09-04 15:57:17.656 UBA Expo[79227:70b] Resetting plugins due to page load.
+2014-09-04 15:57:17.908 UBA Expo[79227:4613] ERROR: unable to get the receiver data from the DB!
+2014-09-04 15:57:18.690 UBA Expo[79227:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
