@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0"
->
+
+<widget id="com.ionicframework.testsidemenu196633"
+		version="0.0.1"
+		xmlns="http://www.w3.org/ns/widgets"
+		xmlns:cdv="http://cordova.apache.org/ns/1.0"
+		xmlns:gap="http://phonegap.com/ns/1.0">
+		
   <name>UBA Expo</name>
   <description>
         2014 UBA Fall Meeting &amp; Expo
     </description>
   <author email="it_department@ubabenefits.com" href="www.ubabenefits.com">
       UBA Technology Team
-    </author>
+  </author>
+    
   <content src="index.html"/>
+  
   <access origin="*"/>
+  
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="BackupWebStorage" value="none"/>
+  
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
   
   <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
-  
-  
 
-	<platform name="ios">
-	
+  <platform name="ios">
 	  <!-- iOS 7.0+ -->
 	  <!-- iPhone / iPod Touch -->
 	  <icon src="img/res/icons/ios/icon-60.png" width="60" height="60" />
