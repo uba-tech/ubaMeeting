@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="BackupWebStorage" value="cloud" />
@@ -54,7 +54,7 @@
     </description>
     <author email="it_department@ubabenefits.com" href="www.ubabenefits.com">
       UBA Technology Team
-    </author>
+  </author>
     <content src="index.html" />
     <access origin="*" />
     <preference name="webviewbounce" value="false" />
@@ -64,4 +64,6 @@
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
+    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
+    <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
 </widget>
