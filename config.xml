@@ -27,13 +27,13 @@
   <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
   <gap:plugin name="org.apache.cordova.statusbar" />
   
-  <feature name="StatusBar">
+  <!-- <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
   
   	<feature name="InAppBrowser">
     	<param name="ios-package" value="CDVInAppBrowser" />
-	</feature>
+	</feature> -->
 
   <platform name="ios">
 	  <!-- iOS 7.0+ -->
