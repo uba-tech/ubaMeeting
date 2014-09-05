@@ -915,3 +915,14 @@ Terminating in response to SpringBoard's termination.
 2014-09-04 16:55:14.975 UBA Expo[79615:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
 2014-09-04 16:55:25.525 UBA Expo[79615:70b] THREAD WARNING: ['InAppBrowser'] took '346.556885' ms. Plugin should use a background thread.
 2014-09-04 17:06:31.975 UBA Expo[79615:70b] THREAD WARNING: ['InAppBrowser'] took '121.008789' ms. Plugin should use a background thread.
+2014-09-05 10:34:32.356 UBA Expo[80723:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-05 10:34:32.477 UBA Expo[80723:70b] Unlimited access to network resources
+2014-09-05 10:34:33.911 UBA Expo[80723:70b] [CDVTimer][keyboard] 0.136971ms
+2014-09-05 10:34:34.263 UBA Expo[80723:70b] [CDVTimer][statusbar] 351.166010ms
+2014-09-05 10:34:34.264 UBA Expo[80723:70b] [CDVTimer][TotalPluginStartup] 353.070021ms
+2014-09-05 10:34:34.816 UBA Expo[80723:70b] Resetting plugins due to page load.
+2014-09-05 10:34:35.120 UBA Expo[80723:4617] ERROR: unable to get the receiver data from the DB!
+2014-09-05 10:34:35.870 UBA Expo[80723:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
+2014-09-05 10:35:24.709 UBA Expo[80723:70b] ERROR: file:///Users/bbeswick/Library/Application<ion-view class="ng-enter pane">0Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/lib/ionic/js/ionic.bundle.js:10789:28
+2014-09-05 10:35:24.728 UBA Expo[80723:70b] THREAD WARNING: ['Console'] took '19.600830' ms. Plugin should use a background thread.
+2014-09-05 10:35:30.171 UBA Expo[80723:70b] THREAD WARNING: ['InAppBrowser'] took '2510.373291' ms. Plugin should use a background thread.
