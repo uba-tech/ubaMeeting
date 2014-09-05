@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.ionicframework.testsidemenu196633" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.ubabenefits.UBACon" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="BackupWebStorage" value="cloud" />
@@ -28,9 +28,15 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
+    </feature>
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
     <preference name="StatusBarStyle" value="lightcontent" />
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
     <icon height="60" src="img/res/icons/ios/icon-60.png" width="60" />
     <icon height="120" src="res/icons/ios/icon-60@2x.png" width="120" />
     <icon height="76" src="img/res/icons/ios/icon-76.png" width="76" />
@@ -49,7 +55,7 @@
     <description>
         2014 UBA Fall Meeting &amp; Expo
     </description>
-    <author email="it_department@ubabenefits.com" href="www.ubabenefits.com">
+    <author email="mmilligan@ubabenefits.com" href="http://www.ubabenefits.com">
       UBA Technology Team
   </author>
     <content src="index.html" />
@@ -59,23 +65,17 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="phonegap-version" value="3.4.0" />
-    <feature name="StatusBar">
-        <param name="ios-package" onload="true" value="CDVStatusBar" />
-    </feature>
-    <feature name="InAppBrowser">
-        <param name="ios-package" value="CDVInAppBrowser" />
-    </feature>
     <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
     <gap:plugin name="org.apache.cordova.statusbar" />
-    <gap:splash gap:density="ldpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
-    <gap:splash gap:density="mdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
-    <gap:splash gap:density="hdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
-    <gap:splash gap:density="xhdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
-    <gap:splash gap:platform="ios" height="480" src="img/res/splash/Default~iphone.png" width="320" />
-    <gap:splash gap:platform="ios" height="960" src="img/res/splash/Default@2x~iphone.png" width="640" />
-    <gap:splash gap:platform="ios" height="1136" src="img/res/splash/Default-568h@2x~iphone.png" width="640" />
-    <gap:splash gap:platform="ios" height="1024" src="img/res/splash/Default-Portrait~ipad.png" width="762" />
-    <gap:splash gap:platform="ios" height="762" src="img/res/splash/Default-Landscape~ipad.png" width="1024" />
+    <gap:splash gap:density="ldpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="mdpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="hdpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="xhdpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
+    <gap:splash gap:platform="ios" height="480" src="www/img/res/splash/Default~iphone.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="www/img/res/splash/Default@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="1136" src="www/img/res/splash/Default-568h@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="www/img/res/splash/Default-Portrait~ipad.png" width="762" />
+    <gap:splash gap:platform="ios" height="762" src="www/img/res/splash/Default-Landscape~ipad.png" width="1024" />
     <gap:splash gap:platform="ios" height="1567" src="img/res/splash/Default-Landscape@2x~ipad.png" width="2048" />
     <gap:splash gap:platform="ios" height="2048" src="img/res/splash/Default-Portrait@2x~ipad.png" width="1567" />
 </widget>
