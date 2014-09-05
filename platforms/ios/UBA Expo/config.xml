@@ -67,4 +67,15 @@
     </feature>
     <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
     <gap:plugin name="org.apache.cordova.statusbar" />
+    <gap:splash gap:density="ldpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="mdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="hdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
+    <gap:splash gap:density="xhdpi" gap:platform="android" src="images/res/screen-android-portrait-hd.png" />
+    <gap:splash gap:platform="ios" height="480" src="img/res/splash/Default~iphone.png" width="320" />
+    <gap:splash gap:platform="ios" height="960" src="img/res/splash/Default@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="1136" src="img/res/splash/Default-568h@2x~iphone.png" width="640" />
+    <gap:splash gap:platform="ios" height="1024" src="img/res/splash/Default-Portrait~ipad.png" width="762" />
+    <gap:splash gap:platform="ios" height="762" src="img/res/splash/Default-Landscape~ipad.png" width="1024" />
+    <gap:splash gap:platform="ios" height="1567" src="img/res/splash/Default-Landscape@2x~ipad.png" width="2048" />
+    <gap:splash gap:platform="ios" height="2048" src="img/res/splash/Default-Portrait@2x~ipad.png" width="1567" />
 </widget>
