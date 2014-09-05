@@ -24,6 +24,9 @@
   <preference name="BackupWebStorage" value="none"/>
   <preference name="phonegap-version" value="3.4.0" />
   
+  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
+  <gap:plugin name="org.apache.cordova.statusbar" />
+  
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
@@ -31,10 +34,6 @@
   	<feature name="InAppBrowser">
     	<param name="ios-package" value="CDVInAppBrowser" />
 	</feature>
-
-  
-  <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
-  <gap:plugin name="org.apache.cordova.statusbar" />
 
   <platform name="ios">
 	  <!-- iOS 7.0+ -->
