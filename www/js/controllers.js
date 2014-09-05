@@ -133,6 +133,7 @@ angular.module('starter.controllers', ['ionic'])
          	ref.addEventListener('loadstop', function(event) { alert('stop: ' + event.url); });
          	ref.addEventListener('loaderror', function(event) { alert('error: ' + event.message); });
          	ref.addEventListener('exit', function(event) { alert(event.type); });
+         	ref.close();
     	};
     	
     	$scope.openFeedback = function() {
@@ -141,6 +142,7 @@ angular.module('starter.controllers', ['ionic'])
          	refFeedback.addEventListener('loadstop', function(event) { alert('stop: ' + event.url); });
          	refFeedback.addEventListener('loaderror', function(event) { alert('error: ' + event.message); });
          	refFeedback.addEventListener('exit', function(event) { alert(event.type); });
+         	refFeedback.close();
     	};
     })
     

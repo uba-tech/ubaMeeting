@@ -67,6 +67,23 @@
 	  <icon src="img/res/icons/ios/icon-50.png" width="50" height="50" />
 	  <icon src="img/res/icons/ios/icon-50@2x.png" width="100" height="100" />
 	</platform>
+	
+	<gap:splash src="images/res/screen-android-portrait-hd.png"  	gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="images/res/screen-android-portrait-hd.png"  	gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="images/res/screen-android-portrait-hd.png"  	gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="images/res/screen-android-portrait-hd.png" 	gap:platform="android" gap:density="xhdpi" />
+    
+    <gap:splash src="img/res/splash/Default~iphone.png"    			gap:platform="ios"		width="320" height="480" />
+    <gap:splash src="img/res/splash/Default@2x~iphone.png" 			gap:platform="ios"     	width="640" height="960" />
+    <gap:splash src="img/res/splash/Default-568h@2x~iphone.png" 	gap:platform="ios"     	width="640" height="1136" />
+    <gap:splash src="img/res/splash/Default-Portrait~ipad.png"      gap:platform="ios"     	width="762" height="1024" />
+    <gap:splash src="img/res/splash/Default-Landscape~ipad.png"     gap:platform="ios"     	width="1024" height="762" />
+    
+    
+    <!-- retina iPad support: PhoneGap 2.5.0+ only -->
+	<gap:splash src="img/res/splash/Default-Landscape@2x~ipad.png" 	gap:platform="ios" 		width="2048" height="1567" />
+	<gap:splash src="img/res/splash/Default-Portrait@2x~ipad.png" 	gap:platform="ios" 		width="1567" height="2048" />
+    
 
 
   
