@@ -952,3 +952,23 @@ Terminating in response to SpringBoard's termination.
 2014-09-05 16:19:06.707 UBA Expo[82524:70b] Resetting plugins due to page load.
 2014-09-05 16:19:08.680 UBA Expo[82524:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
 2014-09-05 16:19:08.725 UBA Expo[82524:70b] THREAD WARNING: ['Device'] took '10.385986' ms. Plugin should use a background thread.
+2014-09-05 16:56:25.105 UBA Expo[82856:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-05 16:56:25.200 UBA Expo[82856:70b] Unlimited access to network resources
+2014-09-05 16:56:26.660 UBA Expo[82856:70b] [CDVTimer][keyboard] 0.138998ms
+2014-09-05 16:56:26.990 UBA Expo[82856:70b] [CDVTimer][statusbar] 328.701019ms
+2014-09-05 16:56:27.012 UBA Expo[82856:70b] [CDVTimer][TotalPluginStartup] 351.528049ms
+2014-09-05 16:56:27.384 UBA Expo[82856:70b] Resetting plugins due to page load.
+2014-09-05 16:56:29.012 UBA Expo[82856:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
+2014-09-05 16:57:23.989 UBA Expo[82856:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-09-05 16:57:24.076 UBA Expo[82856:70b] THREAD WARNING: ['InAppBrowser'] took '365.087891' ms. Plugin should use a background thread.
+2014-09-05 16:57:39.391 UBA Expo[82856:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-09-05 16:57:39.423 UBA Expo[82856:70b] THREAD WARNING: ['InAppBrowser'] took '35.621826' ms. Plugin should use a background thread.
+2014-09-08 14:25:21.805 UBA Expo[86368:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 14:25:21.889 UBA Expo[86368:70b] Unlimited access to network resources
+2014-09-08 14:25:23.171 UBA Expo[86368:70b] [CDVTimer][keyboard] 0.135005ms
+2014-09-08 14:25:23.586 UBA Expo[86368:70b] [CDVTimer][statusbar] 414.291024ms
+2014-09-08 14:25:23.587 UBA Expo[86368:70b] [CDVTimer][TotalPluginStartup] 416.342020ms
+2014-09-08 14:25:24.123 UBA Expo[86368:70b] Resetting plugins due to page load.
+2014-09-08 14:25:25.363 UBA Expo[86368:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
+2014-09-08 14:25:30.681 UBA Expo[86368:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-09-08 14:25:30.817 UBA Expo[86368:70b] THREAD WARNING: ['InAppBrowser'] took '401.634766' ms. Plugin should use a background thread.
