@@ -35,7 +35,7 @@
     	<param name="ios-package" value="CDVInAppBrowser" />
 	</feature> -->
 
-<icon src="icon.png" />
+<icon src="img/res/icon.png" />
 
   <platform name="ios">
 	  <!-- iOS 7.0+ -->
