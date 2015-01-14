@@ -1,984 +1,174 @@
-2014-08-18 14:46:17.882 testSideMenu[9731:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 14:46:17.889 testSideMenu[9731:70b] Unlimited access to network resources
-2014-08-18 14:46:17.908 testSideMenu[9731:70b] [CDVTimer][keyboard] 0.063002ms
-2014-08-18 14:46:17.908 testSideMenu[9731:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 14:46:17.909 testSideMenu[9731:70b] [CDVTimer][statusbar] 0.428975ms
-2014-08-18 14:46:17.909 testSideMenu[9731:70b] [CDVTimer][TotalPluginStartup] 1.426995ms
-2014-08-18 14:46:18.306 testSideMenu[9731:70b] Resetting plugins due to page load.
-2014-08-18 14:46:18.514 testSideMenu[9731:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/playlists
-2014-08-18 17:15:21.041 testSideMenu[12468:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 17:15:21.143 testSideMenu[12468:70b] Unlimited access to network resources
-2014-08-18 17:15:22.685 testSideMenu[12468:70b] [CDVTimer][keyboard] 22.525012ms
-2014-08-18 17:15:22.686 testSideMenu[12468:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 17:15:22.686 testSideMenu[12468:70b] [CDVTimer][statusbar] 0.791013ms
-2014-08-18 17:15:22.687 testSideMenu[12468:70b] [CDVTimer][TotalPluginStartup] 25.065005ms
-2014-08-18 17:15:24.021 testSideMenu[12468:70b] Resetting plugins due to page load.
-2014-08-18 17:15:24.717 testSideMenu[12468:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/playlists
-2014-08-18 17:18:18.976 testSideMenu[12686:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 17:18:19.061 testSideMenu[12686:70b] Unlimited access to network resources
-2014-08-18 17:18:19.117 testSideMenu[12686:70b] [CDVTimer][keyboard] 0.424027ms
-2014-08-18 17:18:19.118 testSideMenu[12686:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 17:18:19.118 testSideMenu[12686:70b] [CDVTimer][statusbar] 0.486970ms
-2014-08-18 17:18:19.119 testSideMenu[12686:70b] [CDVTimer][TotalPluginStartup] 1.918018ms
-2014-08-18 17:18:19.293 testSideMenu[12686:70b] Resetting plugins due to page load.
-2014-08-18 17:18:20.118 testSideMenu[12686:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html
-2014-08-18 17:21:07.519 testSideMenu[12906:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 17:21:07.574 testSideMenu[12906:70b] Unlimited access to network resources
-2014-08-18 17:21:07.662 testSideMenu[12906:70b] [CDVTimer][keyboard] 29.980004ms
-2014-08-18 17:21:07.662 testSideMenu[12906:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 17:21:07.663 testSideMenu[12906:70b] [CDVTimer][statusbar] 0.897050ms
-2014-08-18 17:21:07.664 testSideMenu[12906:70b] [CDVTimer][TotalPluginStartup] 32.557011ms
-2014-08-18 17:21:08.093 testSideMenu[12906:70b] Resetting plugins due to page load.
-2014-08-18 17:21:08.438 testSideMenu[12906:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html
-2014-08-18 17:23:14.799 testSideMenu[13118:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-18 17:23:14.847 testSideMenu[13118:70b] Unlimited access to network resources
-2014-08-18 17:23:14.886 testSideMenu[13118:70b] [CDVTimer][keyboard] 0.474989ms
-2014-08-18 17:23:14.886 testSideMenu[13118:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-18 17:23:14.887 testSideMenu[13118:70b] [CDVTimer][statusbar] 0.432968ms
-2014-08-18 17:23:14.887 testSideMenu[13118:70b] [CDVTimer][TotalPluginStartup] 1.882017ms
-2014-08-18 17:23:15.036 testSideMenu[13118:70b] Resetting plugins due to page load.
-2014-08-18 17:23:15.408 testSideMenu[13118:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/playlists
-Terminating in response to SpringBoard's termination.
-2014-08-19 10:59:41.257 testSideMenu[14445:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-19 10:59:41.268 testSideMenu[14445:70b] Unlimited access to network resources
-2014-08-19 10:59:41.374 testSideMenu[14445:70b] [CDVTimer][keyboard] 0.102997ms
-2014-08-19 10:59:41.374 testSideMenu[14445:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-19 10:59:41.375 testSideMenu[14445:70b] [CDVTimer][statusbar] 0.851035ms
-2014-08-19 10:59:41.376 testSideMenu[14445:70b] [CDVTimer][TotalPluginStartup] 2.317965ms
-2014-08-19 10:59:41.508 testSideMenu[14445:70b] Resetting plugins due to page load.
-2014-08-19 10:59:41.990 testSideMenu[14445:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/schedule
-2014-08-19 11:09:02.016 testSideMenu[14679:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-19 11:09:02.025 testSideMenu[14679:70b] Unlimited access to network resources
-2014-08-19 11:09:02.044 testSideMenu[14679:70b] [CDVTimer][keyboard] 0.066996ms
-2014-08-19 11:09:02.044 testSideMenu[14679:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-19 11:09:02.045 testSideMenu[14679:70b] [CDVTimer][statusbar] 0.458002ms
-2014-08-19 11:09:02.045 testSideMenu[14679:70b] [CDVTimer][TotalPluginStartup] 1.498044ms
-2014-08-19 11:09:02.164 testSideMenu[14679:70b] Resetting plugins due to page load.
-2014-08-19 11:09:02.337 testSideMenu[14679:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/schedule
-2014-08-19 11:09:59.601 testSideMenu[14892:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-19 11:09:59.613 testSideMenu[14892:70b] Unlimited access to network resources
-2014-08-19 11:09:59.644 testSideMenu[14892:70b] [CDVTimer][keyboard] 0.106990ms
-2014-08-19 11:09:59.645 testSideMenu[14892:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-19 11:09:59.646 testSideMenu[14892:70b] [CDVTimer][statusbar] 0.878990ms
-2014-08-19 11:09:59.647 testSideMenu[14892:70b] [CDVTimer][TotalPluginStartup] 2.553999ms
-2014-08-19 11:09:59.792 testSideMenu[14892:70b] Resetting plugins due to page load.
-2014-08-19 11:09:59.986 testSideMenu[14892:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/schedule
-2014-08-19 11:15:47.432 testSideMenu[15118:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-19 11:15:47.441 testSideMenu[15118:70b] Unlimited access to network resources
-2014-08-19 11:15:47.459 testSideMenu[15118:70b] [CDVTimer][keyboard] 0.111997ms
-2014-08-19 11:15:47.459 testSideMenu[15118:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-19 11:15:47.460 testSideMenu[15118:70b] [CDVTimer][statusbar] 0.494003ms
-2014-08-19 11:15:47.460 testSideMenu[15118:70b] [CDVTimer][TotalPluginStartup] 1.700997ms
-2014-08-19 11:15:47.565 testSideMenu[15118:70b] Resetting plugins due to page load.
-2014-08-19 11:15:47.702 testSideMenu[15118:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/0EDA4417-A068-4272-BD9A-51E24BBE2D71/testSideMenu.app/www/index.html#/app/schedule
-2014-08-21 14:06:42.340 testSideMenu[29098:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-21 14:06:42.369 testSideMenu[29098:70b] Unlimited access to network resources
-2014-08-21 14:06:42.576 testSideMenu[29098:70b] [CDVTimer][keyboard] 0.066996ms
-2014-08-21 14:06:42.576 testSideMenu[29098:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-21 14:06:42.577 testSideMenu[29098:70b] [CDVTimer][statusbar] 0.554979ms
-2014-08-21 14:06:42.614 testSideMenu[29098:70b] [CDVTimer][TotalPluginStartup] 38.212955ms
-2014-08-21 14:06:43.427 testSideMenu[29098:70b] Resetting plugins due to page load.
-2014-08-21 14:06:44.040 testSideMenu[29098:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-21 14:10:47.342 testSideMenu[29318:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-21 14:10:47.369 testSideMenu[29318:70b] Unlimited access to network resources
-2014-08-21 14:10:47.407 testSideMenu[29318:70b] [CDVTimer][keyboard] 0.070035ms
-2014-08-21 14:10:47.408 testSideMenu[29318:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-21 14:10:47.408 testSideMenu[29318:70b] [CDVTimer][statusbar] 0.555992ms
-2014-08-21 14:10:47.409 testSideMenu[29318:70b] [CDVTimer][TotalPluginStartup] 1.689017ms
-2014-08-21 14:10:47.520 testSideMenu[29318:70b] Resetting plugins due to page load.
-2014-08-21 14:10:47.743 testSideMenu[29318:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-21 14:22:41.357 testSideMenu[29555:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-21 14:22:41.416 testSideMenu[29555:70b] Unlimited access to network resources
-2014-08-21 14:22:41.506 testSideMenu[29555:70b] [CDVTimer][keyboard] 0.072956ms
-2014-08-21 14:22:41.506 testSideMenu[29555:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-21 14:22:41.507 testSideMenu[29555:70b] [CDVTimer][statusbar] 0.454962ms
-2014-08-21 14:22:41.507 testSideMenu[29555:70b] [CDVTimer][TotalPluginStartup] 1.513958ms
-2014-08-21 14:22:41.729 testSideMenu[29555:70b] Resetting plugins due to page load.
-2014-08-21 14:22:42.343 testSideMenu[29555:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 10:30:34.053 testSideMenu[31471:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 10:30:34.258 testSideMenu[31471:70b] Unlimited access to network resources
-2014-08-22 10:30:36.719 testSideMenu[31471:70b] [CDVTimer][keyboard] 10.004044ms
-2014-08-22 10:30:36.720 testSideMenu[31471:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 10:30:36.720 testSideMenu[31471:70b] [CDVTimer][statusbar] 0.765026ms
-2014-08-22 10:30:36.721 testSideMenu[31471:70b] [CDVTimer][TotalPluginStartup] 12.478948ms
-2014-08-22 10:30:37.447 testSideMenu[31471:70b] Resetting plugins due to page load.
-2014-08-22 10:30:38.183 testSideMenu[31471:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 10:32:39.718 testSideMenu[31731:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 10:32:39.770 testSideMenu[31731:70b] Unlimited access to network resources
-2014-08-22 10:32:39.804 testSideMenu[31731:70b] [CDVTimer][keyboard] 0.063002ms
-2014-08-22 10:32:39.805 testSideMenu[31731:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 10:32:39.805 testSideMenu[31731:70b] [CDVTimer][statusbar] 0.431955ms
-2014-08-22 10:32:39.806 testSideMenu[31731:70b] [CDVTimer][TotalPluginStartup] 1.468003ms
-2014-08-22 10:32:40.140 testSideMenu[31731:70b] Resetting plugins due to page load.
-2014-08-22 10:32:40.487 testSideMenu[31731:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 10:38:29.254 testSideMenu[31954:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 10:38:29.299 testSideMenu[31954:70b] Unlimited access to network resources
-2014-08-22 10:38:29.338 testSideMenu[31954:70b] [CDVTimer][keyboard] 0.107050ms
-2014-08-22 10:38:29.339 testSideMenu[31954:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 10:38:29.339 testSideMenu[31954:70b] [CDVTimer][statusbar] 0.588000ms
-2014-08-22 10:38:29.340 testSideMenu[31954:70b] [CDVTimer][TotalPluginStartup] 2.678990ms
-2014-08-22 10:38:29.521 testSideMenu[31954:70b] Resetting plugins due to page load.
-2014-08-22 10:38:29.966 testSideMenu[31954:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 10:41:03.251 testSideMenu[32182:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 10:41:03.282 testSideMenu[32182:70b] Unlimited access to network resources
-2014-08-22 10:41:03.322 testSideMenu[32182:70b] [CDVTimer][keyboard] 0.378966ms
-2014-08-22 10:41:03.323 testSideMenu[32182:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 10:41:03.323 testSideMenu[32182:70b] [CDVTimer][statusbar] 0.504017ms
-2014-08-22 10:41:03.324 testSideMenu[32182:70b] [CDVTimer][TotalPluginStartup] 1.959980ms
-2014-08-22 10:50:18.287 testSideMenu[32411:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 10:50:18.314 testSideMenu[32411:70b] Unlimited access to network resources
-2014-08-22 10:50:18.371 testSideMenu[32411:70b] [CDVTimer][keyboard] 0.065982ms
-2014-08-22 10:50:18.372 testSideMenu[32411:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 10:50:18.372 testSideMenu[32411:70b] [CDVTimer][statusbar] 0.440955ms
-2014-08-22 10:50:18.372 testSideMenu[32411:70b] [CDVTimer][TotalPluginStartup] 1.437008ms
-2014-08-22 10:50:18.518 testSideMenu[32411:70b] Resetting plugins due to page load.
-2014-08-22 10:50:18.998 testSideMenu[32411:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:03:49.485 testSideMenu[32651:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:03:49.707 testSideMenu[32651:70b] Unlimited access to network resources
-2014-08-22 11:03:49.879 testSideMenu[32651:70b] [CDVTimer][keyboard] 0.100017ms
-2014-08-22 11:03:49.880 testSideMenu[32651:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:03:49.880 testSideMenu[32651:70b] [CDVTimer][statusbar] 0.618994ms
-2014-08-22 11:03:49.881 testSideMenu[32651:70b] [CDVTimer][TotalPluginStartup] 1.847029ms
-2014-08-22 11:03:50.382 testSideMenu[32651:70b] Resetting plugins due to page load.
-2014-08-22 11:03:50.895 testSideMenu[32651:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:05:23.627 testSideMenu[32874:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:05:23.674 testSideMenu[32874:70b] Unlimited access to network resources
-2014-08-22 11:05:23.737 testSideMenu[32874:70b] [CDVTimer][keyboard] 11.072993ms
-2014-08-22 11:05:23.738 testSideMenu[32874:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:05:23.738 testSideMenu[32874:70b] [CDVTimer][statusbar] 0.518978ms
-2014-08-22 11:05:23.738 testSideMenu[32874:70b] [CDVTimer][TotalPluginStartup] 12.719989ms
-2014-08-22 11:05:24.010 testSideMenu[32874:70b] Resetting plugins due to page load.
-2014-08-22 11:05:24.847 testSideMenu[32874:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:16:15.466 testSideMenu[33109:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:16:15.473 testSideMenu[33109:70b] Unlimited access to network resources
-2014-08-22 11:16:15.502 testSideMenu[33109:70b] [CDVTimer][keyboard] 0.073016ms
-2014-08-22 11:16:15.503 testSideMenu[33109:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:16:15.503 testSideMenu[33109:70b] [CDVTimer][statusbar] 0.509977ms
-2014-08-22 11:16:15.504 testSideMenu[33109:70b] [CDVTimer][TotalPluginStartup] 1.551032ms
-2014-08-22 11:16:15.767 testSideMenu[33109:70b] Resetting plugins due to page load.
-2014-08-22 11:16:15.970 testSideMenu[33109:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:27:50.746 testSideMenu[33330:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:27:50.780 testSideMenu[33330:70b] Unlimited access to network resources
-2014-08-22 11:27:51.126 testSideMenu[33330:70b] [CDVTimer][keyboard] 309.790015ms
-2014-08-22 11:27:51.127 testSideMenu[33330:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:27:51.128 testSideMenu[33330:70b] [CDVTimer][statusbar] 0.966012ms
-2014-08-22 11:27:51.129 testSideMenu[33330:70b] [CDVTimer][TotalPluginStartup] 312.510014ms
-2014-08-22 11:27:51.292 testSideMenu[33330:70b] Resetting plugins due to page load.
-2014-08-22 11:27:51.733 testSideMenu[33330:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:30:25.135 testSideMenu[33555:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:30:25.193 testSideMenu[33555:70b] Unlimited access to network resources
-2014-08-22 11:30:25.267 testSideMenu[33555:70b] [CDVTimer][keyboard] 23.404002ms
-2014-08-22 11:30:25.268 testSideMenu[33555:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:30:25.269 testSideMenu[33555:70b] [CDVTimer][statusbar] 0.712991ms
-2014-08-22 11:30:25.269 testSideMenu[33555:70b] [CDVTimer][TotalPluginStartup] 25.615990ms
-2014-08-22 11:30:25.536 testSideMenu[33555:70b] Resetting plugins due to page load.
-2014-08-22 11:30:26.082 testSideMenu[33555:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 11:32:19.096 testSideMenu[33779:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 11:32:19.121 testSideMenu[33779:70b] Unlimited access to network resources
-2014-08-22 11:32:19.144 testSideMenu[33779:70b] [CDVTimer][keyboard] 0.535011ms
-2014-08-22 11:32:19.145 testSideMenu[33779:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 11:32:19.145 testSideMenu[33779:70b] [CDVTimer][statusbar] 0.418007ms
-2014-08-22 11:32:19.145 testSideMenu[33779:70b] [CDVTimer][TotalPluginStartup] 1.980007ms
-2014-08-22 11:32:19.481 testSideMenu[33779:70b] Resetting plugins due to page load.
-2014-08-22 11:32:19.827 testSideMenu[33779:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 16:13:20.861 testSideMenu[34357:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 16:13:21.061 testSideMenu[34357:70b] Unlimited access to network resources
-2014-08-22 16:13:22.913 testSideMenu[34357:70b] [CDVTimer][keyboard] 1.031995ms
-2014-08-22 16:13:22.914 testSideMenu[34357:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 16:13:22.914 testSideMenu[34357:70b] [CDVTimer][statusbar] 0.602007ms
-2014-08-22 16:13:22.915 testSideMenu[34357:70b] [CDVTimer][TotalPluginStartup] 3.003001ms
-2014-08-22 16:13:23.591 testSideMenu[34357:70b] Resetting plugins due to page load.
-2014-08-22 16:13:28.041 testSideMenu[34357:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 16:18:22.542 testSideMenu[34624:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 16:18:22.560 testSideMenu[34624:70b] Unlimited access to network resources
-2014-08-22 16:18:22.609 testSideMenu[34624:70b] [CDVTimer][keyboard] 0.071049ms
-2014-08-22 16:18:22.609 testSideMenu[34624:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 16:18:22.610 testSideMenu[34624:70b] [CDVTimer][statusbar] 0.405967ms
-2014-08-22 16:18:22.610 testSideMenu[34624:70b] [CDVTimer][TotalPluginStartup] 1.519024ms
-2014-08-22 16:18:22.802 testSideMenu[34624:70b] Resetting plugins due to page load.
-2014-08-22 16:18:23.368 testSideMenu[34624:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-22 16:20:56.872 testSideMenu[34855:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-22 16:20:56.899 testSideMenu[34855:70b] Unlimited access to network resources
-2014-08-22 16:20:56.942 testSideMenu[34855:70b] [CDVTimer][keyboard] 0.100970ms
-2014-08-22 16:20:56.942 testSideMenu[34855:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-22 16:20:56.943 testSideMenu[34855:70b] [CDVTimer][statusbar] 0.518978ms
-2014-08-22 16:20:56.943 testSideMenu[34855:70b] [CDVTimer][TotalPluginStartup] 1.711965ms
-2014-08-22 16:20:57.106 testSideMenu[34855:70b] Resetting plugins due to page load.
-2014-08-22 16:20:57.732 testSideMenu[34855:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/835249CC-C59A-417C-ABA8-D0A60C808DDA/testSideMenu.app/www/index.html#/app/schedule
-2014-08-25 10:07:07.604 UBA Expo[41546:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 10:07:08.084 UBA Expo[41546:70b] Unlimited access to network resources
-2014-08-25 10:07:08.122 UBA Expo[41546:70b] Fix applied for database locations?: YES
-2014-08-25 10:07:09.634 UBA Expo[41546:70b] [CDVTimer][keyboard] 11.988044ms
-2014-08-25 10:07:09.635 UBA Expo[41546:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-25 10:07:09.636 UBA Expo[41546:70b] [CDVTimer][statusbar] 0.771999ms
-2014-08-25 10:07:09.637 UBA Expo[41546:70b] [CDVTimer][TotalPluginStartup] 14.560997ms
-2014-08-25 10:07:11.724 UBA Expo[41546:70b] Resetting plugins due to page load.
-2014-08-25 10:07:14.143 UBA Expo[41546:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 10:07:18.869 UBA Expo[41546:70b] deviceready has not fired after 5 seconds.
-2014-08-25 10:07:18.870 UBA Expo[41546:70b] Channel not fired: onCordovaInfoReady
-2014-08-25 13:42:36.941 UBA Expo[42024:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 13:42:37.000 UBA Expo[42024:70b] Unlimited access to network resources
-2014-08-25 13:42:37.043 UBA Expo[42024:70b] [CDVTimer][keyboard] 0.114977ms
-2014-08-25 13:42:37.044 UBA Expo[42024:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-25 13:42:37.045 UBA Expo[42024:70b] [CDVTimer][statusbar] 0.530958ms
-2014-08-25 13:42:37.045 UBA Expo[42024:70b] [CDVTimer][TotalPluginStartup] 1.796007ms
-2014-08-25 13:42:37.255 UBA Expo[42024:70b] Resetting plugins due to page load.
-2014-08-25 13:42:38.367 UBA Expo[42024:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 14:40:56.344 UBA Expo[42311:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 14:40:56.375 UBA Expo[42311:70b] Unlimited access to network resources
-2014-08-25 14:40:56.398 UBA Expo[42311:70b] [CDVTimer][keyboard] 0.063956ms
-2014-08-25 14:40:56.399 UBA Expo[42311:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-25 14:40:56.399 UBA Expo[42311:70b] [CDVTimer][statusbar] 0.389040ms
-2014-08-25 14:40:56.399 UBA Expo[42311:70b] [CDVTimer][TotalPluginStartup] 1.441956ms
-2014-08-25 14:40:56.572 UBA Expo[42311:70b] Resetting plugins due to page load.
-2014-08-25 14:40:56.945 UBA Expo[42311:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 14:43:20.348 UBA Expo[42536:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 14:43:20.392 UBA Expo[42536:70b] Unlimited access to network resources
-2014-08-25 14:43:20.440 UBA Expo[42536:70b] [CDVTimer][keyboard] 0.540018ms
-2014-08-25 14:43:20.441 UBA Expo[42536:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-25 14:43:20.442 UBA Expo[42536:70b] [CDVTimer][statusbar] 0.434995ms
-2014-08-25 14:43:20.442 UBA Expo[42536:70b] [CDVTimer][TotalPluginStartup] 2.027988ms
-2014-08-25 14:43:20.840 UBA Expo[42536:70b] Resetting plugins due to page load.
-2014-08-25 14:43:21.182 UBA Expo[42536:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 15:08:21.310 UBA Expo[42798:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 15:08:21.346 UBA Expo[42798:70b] Unlimited access to network resources
-2014-08-25 15:08:21.497 UBA Expo[42798:70b] [CDVTimer][keyboard] 0.093997ms
-2014-08-25 15:08:21.498 UBA Expo[42798:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2014-08-25 15:08:21.498 UBA Expo[42798:70b] [CDVTimer][statusbar] 0.452995ms
-2014-08-25 15:08:21.498 UBA Expo[42798:70b] [CDVTimer][TotalPluginStartup] 1.657009ms
-2014-08-25 15:08:21.754 UBA Expo[42798:70b] Resetting plugins due to page load.
-2014-08-25 15:08:22.222 UBA Expo[42798:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 15:32:00.351 UBA Expo[43082:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 15:32:00.381 UBA Expo[43082:70b] Unlimited access to network resources
-2014-08-25 15:32:00.458 UBA Expo[43082:70b] [CDVTimer][keyboard] 0.124037ms
-2014-08-25 15:32:00.526 UBA Expo[43082:70b] [CDVTimer][statusbar] 66.880047ms
-2014-08-25 15:32:00.527 UBA Expo[43082:70b] [CDVTimer][TotalPluginStartup] 68.459988ms
-2014-08-25 15:32:00.747 UBA Expo[43082:70b] Resetting plugins due to page load.
-2014-08-25 15:32:01.261 UBA Expo[43082:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/login
-2014-08-25 15:33:21.524 UBA Expo[43288:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 15:33:21.549 UBA Expo[43288:70b] Unlimited access to network resources
-2014-08-25 15:33:21.582 UBA Expo[43288:70b] [CDVTimer][keyboard] 0.072002ms
-2014-08-25 15:33:21.669 UBA Expo[43288:70b] [CDVTimer][statusbar] 87.019980ms
-2014-08-25 15:33:21.670 UBA Expo[43288:70b] [CDVTimer][TotalPluginStartup] 88.633001ms
-2014-08-25 15:33:22.295 UBA Expo[43288:70b] Resetting plugins due to page load.
-2014-08-25 15:33:22.547 UBA Expo[43288:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 15:42:41.789 UBA Expo[43523:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 15:42:41.813 UBA Expo[43523:70b] Unlimited access to network resources
-2014-08-25 15:42:41.844 UBA Expo[43523:70b] [CDVTimer][keyboard] 0.099003ms
-2014-08-25 15:42:41.925 UBA Expo[43523:70b] [CDVTimer][statusbar] 79.841971ms
-2014-08-25 15:42:41.926 UBA Expo[43523:70b] [CDVTimer][TotalPluginStartup] 81.521988ms
-2014-08-25 15:42:42.341 UBA Expo[43523:70b] Resetting plugins due to page load.
-2014-08-25 15:42:42.623 UBA Expo[43523:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 15:51:46.495 UBA Expo[43760:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 15:51:46.539 UBA Expo[43760:70b] Unlimited access to network resources
-2014-08-25 15:51:46.576 UBA Expo[43760:70b] [CDVTimer][keyboard] 0.110984ms
-2014-08-25 15:51:46.732 UBA Expo[43760:70b] [CDVTimer][statusbar] 155.417025ms
-2014-08-25 15:51:46.733 UBA Expo[43760:70b] [CDVTimer][TotalPluginStartup] 157.076955ms
-2014-08-25 15:51:46.883 UBA Expo[43760:70b] Resetting plugins due to page load.
-2014-08-25 15:51:47.546 UBA Expo[43760:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/app/schedule
-2014-08-25 16:23:07.129 UBA Expo[44011:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 16:23:07.174 UBA Expo[44011:70b] Unlimited access to network resources
-2014-08-25 16:23:07.212 UBA Expo[44011:70b] [CDVTimer][keyboard] 0.068009ms
-2014-08-25 16:23:07.302 UBA Expo[44011:70b] [CDVTimer][statusbar] 89.870989ms
-2014-08-25 16:23:07.303 UBA Expo[44011:70b] [CDVTimer][TotalPluginStartup] 91.063976ms
-2014-08-25 16:23:07.781 UBA Expo[44011:70b] Resetting plugins due to page load.
-2014-08-25 16:23:08.113 UBA Expo[44011:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html
-2014-08-25 16:25:38.708 UBA Expo[44241:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 16:25:38.748 UBA Expo[44241:70b] Unlimited access to network resources
-2014-08-25 16:25:38.792 UBA Expo[44241:70b] [CDVTimer][keyboard] 0.072002ms
-2014-08-25 16:25:38.839 UBA Expo[44241:70b] [CDVTimer][statusbar] 46.185970ms
-2014-08-25 16:25:38.839 UBA Expo[44241:70b] [CDVTimer][TotalPluginStartup] 47.429979ms
-2014-08-25 16:25:38.984 UBA Expo[44241:70b] Resetting plugins due to page load.
-2014-08-25 16:25:39.480 UBA Expo[44241:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html
-2014-08-25 17:16:59.115 UBA Expo[44545:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-25 17:16:59.159 UBA Expo[44545:70b] Unlimited access to network resources
-2014-08-25 17:16:59.423 UBA Expo[44545:70b] [CDVTimer][keyboard] 0.084996ms
-2014-08-25 17:16:59.668 UBA Expo[44545:70b] [CDVTimer][statusbar] 243.303001ms
-2014-08-25 17:16:59.669 UBA Expo[44545:70b] [CDVTimer][TotalPluginStartup] 245.338023ms
-2014-08-25 17:16:59.778 UBA Expo[44545:70b] Resetting plugins due to page load.
-2014-08-25 17:17:00.275 UBA Expo[44545:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 10:57:52.055 UBA Expo[46043:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 10:57:52.207 UBA Expo[46043:70b] Unlimited access to network resources
-2014-08-26 10:57:54.464 UBA Expo[46043:70b] [CDVTimer][keyboard] 0.073969ms
-2014-08-26 10:57:54.855 UBA Expo[46043:70b] [CDVTimer][statusbar] 390.094995ms
-2014-08-26 10:57:54.855 UBA Expo[46043:70b] [CDVTimer][TotalPluginStartup] 391.690016ms
-2014-08-26 10:57:55.290 UBA Expo[46043:70b] Resetting plugins due to page load.
-2014-08-26 10:57:56.138 UBA Expo[46043:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 11:03:52.210 UBA Expo[46298:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 11:03:52.268 UBA Expo[46298:70b] Unlimited access to network resources
-2014-08-26 11:03:52.312 UBA Expo[46298:70b] [CDVTimer][keyboard] 0.064969ms
-2014-08-26 11:03:52.366 UBA Expo[46298:70b] [CDVTimer][statusbar] 53.708971ms
-2014-08-26 11:03:52.367 UBA Expo[46298:70b] [CDVTimer][TotalPluginStartup] 55.215955ms
-2014-08-26 11:03:52.505 UBA Expo[46298:70b] Resetting plugins due to page load.
-2014-08-26 11:03:53.009 UBA Expo[46298:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 11:03:53.396 UBA Expo[46298:70b] THREAD WARNING: ['Device'] took '43.730957' ms. Plugin should use a background thread.
-2014-08-26 11:42:31.836 UBA Expo[46569:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 11:42:31.906 UBA Expo[46569:70b] Unlimited access to network resources
-2014-08-26 11:42:31.961 UBA Expo[46569:70b] [CDVTimer][keyboard] 0.095963ms
-2014-08-26 11:42:32.025 UBA Expo[46569:70b] [CDVTimer][statusbar] 63.336015ms
-2014-08-26 11:42:32.025 UBA Expo[46569:70b] [CDVTimer][TotalPluginStartup] 64.965963ms
-2014-08-26 11:42:32.155 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:32.507 UBA Expo[46569:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 11:42:43.150 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:43.213 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:45.079 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:45.081 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:45.541 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:45.543 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:45.717 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:45.719 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:45.861 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:45.864 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.013 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.015 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.149 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.152 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.309 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.311 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.469 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.471 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.612 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.615 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.780 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.783 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:46.932 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:46.935 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.100 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.103 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.260 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.263 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.412 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.415 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.572 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.575 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.740 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.743 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:47.917 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:47.919 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:48.076 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:48.079 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:48.236 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:48.238 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:48.421 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:48.423 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:48.573 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:48.575 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:42:48.733 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:42:48.736 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:43:04.012 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:43:04.017 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:43:04.500 UBA Expo[46569:70b] Resetting plugins due to page load.
-2014-08-26 11:43:04.508 UBA Expo[46569:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:24.935 UBA Expo[46799:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 11:44:24.989 UBA Expo[46799:70b] Unlimited access to network resources
-2014-08-26 11:44:25.039 UBA Expo[46799:70b] [CDVTimer][keyboard] 0.068009ms
-2014-08-26 11:44:25.153 UBA Expo[46799:70b] [CDVTimer][statusbar] 113.000989ms
-2014-08-26 11:44:25.154 UBA Expo[46799:70b] [CDVTimer][TotalPluginStartup] 114.243984ms
-2014-08-26 11:44:25.446 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:25.851 UBA Expo[46799:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 11:44:31.363 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:31.367 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:31.892 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:31.895 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:32.332 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:32.334 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:32.723 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:32.726 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:33.076 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:33.079 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:33.427 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:33.435 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:33.755 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:33.758 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:34.122 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:34.125 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:44:34.490 UBA Expo[46799:70b] Resetting plugins due to page load.
-2014-08-26 11:44:34.504 UBA Expo[46799:70b] Failed to load webpage with error: Frame load interrupted
-2014-08-26 11:46:01.971 UBA Expo[47032:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 11:46:02.085 UBA Expo[47032:70b] Unlimited access to network resources
-2014-08-26 11:46:02.129 UBA Expo[47032:70b] [CDVTimer][keyboard] 0.070989ms
-2014-08-26 11:46:02.183 UBA Expo[47032:70b] [CDVTimer][statusbar] 52.801013ms
-2014-08-26 11:46:02.244 UBA Expo[47032:70b] [CDVTimer][TotalPluginStartup] 114.982009ms
-2014-08-26 11:46:02.447 UBA Expo[47032:70b] Resetting plugins due to page load.
-2014-08-26 11:46:03.241 UBA Expo[47032:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 11:50:12.079 UBA Expo[47273:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 11:50:12.204 UBA Expo[47273:70b] Unlimited access to network resources
-2014-08-26 11:50:12.233 UBA Expo[47273:70b] [CDVTimer][keyboard] 0.070035ms
-2014-08-26 11:50:12.347 UBA Expo[47273:70b] [CDVTimer][statusbar] 113.831997ms
-2014-08-26 11:50:12.348 UBA Expo[47273:70b] [CDVTimer][TotalPluginStartup] 115.390003ms
-2014-08-26 11:50:12.730 UBA Expo[47273:70b] Resetting plugins due to page load.
-2014-08-26 11:50:13.124 UBA Expo[47273:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 13:26:53.408 UBA Expo[47650:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 13:26:53.489 UBA Expo[47650:70b] Unlimited access to network resources
-2014-08-26 13:26:53.516 UBA Expo[47650:70b] [CDVTimer][keyboard] 0.083983ms
-2014-08-26 13:26:53.562 UBA Expo[47650:70b] [CDVTimer][statusbar] 45.280039ms
-2014-08-26 13:26:53.562 UBA Expo[47650:70b] [CDVTimer][TotalPluginStartup] 46.481967ms
-2014-08-26 13:26:53.662 UBA Expo[47650:70b] Resetting plugins due to page load.
-2014-08-26 13:26:53.995 UBA Expo[47650:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 13:29:10.041 UBA Expo[47880:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 13:29:10.082 UBA Expo[47880:70b] Unlimited access to network resources
-2014-08-26 13:29:10.107 UBA Expo[47880:70b] [CDVTimer][keyboard] 0.061989ms
-2014-08-26 13:29:10.155 UBA Expo[47880:70b] [CDVTimer][statusbar] 47.133029ms
-2014-08-26 13:29:10.156 UBA Expo[47880:70b] [CDVTimer][TotalPluginStartup] 48.497975ms
-2014-08-26 13:29:10.300 UBA Expo[47880:70b] Resetting plugins due to page load.
-2014-08-26 13:29:10.673 UBA Expo[47880:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 13:36:03.320 UBA Expo[48326:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 13:36:03.353 UBA Expo[48326:70b] Unlimited access to network resources
-2014-08-26 13:36:03.485 UBA Expo[48326:70b] [CDVTimer][keyboard] 0.079989ms
-2014-08-26 13:36:03.521 UBA Expo[48326:70b] [CDVTimer][statusbar] 35.363019ms
-2014-08-26 13:36:03.521 UBA Expo[48326:70b] [CDVTimer][TotalPluginStartup] 36.647022ms
-2014-08-26 13:36:03.577 UBA Expo[48326:70b] Resetting plugins due to page load.
-2014-08-26 13:36:04.031 UBA Expo[48326:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 13:43:17.555 UBA Expo[48593:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 13:43:17.625 UBA Expo[48593:70b] Unlimited access to network resources
-2014-08-26 13:43:17.742 UBA Expo[48593:70b] [CDVTimer][keyboard] 0.069976ms
-2014-08-26 13:43:17.817 UBA Expo[48593:70b] [CDVTimer][statusbar] 73.814034ms
-2014-08-26 13:43:17.817 UBA Expo[48593:70b] [CDVTimer][TotalPluginStartup] 75.105011ms
-2014-08-26 13:43:18.071 UBA Expo[48593:70b] Resetting plugins due to page load.
-2014-08-26 13:43:18.392 UBA Expo[48593:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-Terminating in response to SpringBoard's termination.
-2014-08-26 13:43:54.975 UBA Expo[48820:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 13:43:54.982 UBA Expo[48820:70b] Unlimited access to network resources
-2014-08-26 13:43:55.000 UBA Expo[48820:70b] [CDVTimer][keyboard] 0.077009ms
-2014-08-26 13:43:55.009 UBA Expo[48820:70b] [CDVTimer][statusbar] 9.075999ms
-2014-08-26 13:43:55.010 UBA Expo[48820:70b] [CDVTimer][TotalPluginStartup] 10.333002ms
-2014-08-26 13:43:55.133 UBA Expo[48820:70b] Resetting plugins due to page load.
-2014-08-26 13:43:55.295 UBA Expo[48820:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 14:34:46.073 UBA Expo[49150:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 14:34:46.114 UBA Expo[49150:70b] Unlimited access to network resources
-2014-08-26 14:34:47.351 UBA Expo[49150:70b] [CDVTimer][keyboard] 0.140965ms
-2014-08-26 14:34:47.454 UBA Expo[49150:70b] [CDVTimer][statusbar] 102.512002ms
-2014-08-26 14:34:47.455 UBA Expo[49150:70b] [CDVTimer][TotalPluginStartup] 104.144990ms
-2014-08-26 14:34:47.575 UBA Expo[49150:70b] Resetting plugins due to page load.
-2014-08-26 14:34:47.990 UBA Expo[49150:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 14:34:52.823 UBA Expo[49150:70b] CDVWebViewDelegate: Navigation started when state=1
-2014-08-26 14:34:52.824 UBA Expo[49150:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
-2014-08-26 14:34:52.825 UBA Expo[49150:70b] Resetting plugins due to page load.
-2014-08-26 14:34:54.019 UBA Expo[49150:70b] Finished load of: https://www.google.com/?gws_rd=ssl
-2014-08-26 14:36:58.605 UBA Expo[49388:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 14:36:58.663 UBA Expo[49388:70b] Unlimited access to network resources
-2014-08-26 14:36:58.738 UBA Expo[49388:70b] [CDVTimer][keyboard] 0.132024ms
-2014-08-26 14:36:58.865 UBA Expo[49388:70b] [CDVTimer][statusbar] 125.766039ms
-2014-08-26 14:36:58.866 UBA Expo[49388:70b] [CDVTimer][TotalPluginStartup] 127.599001ms
-2014-08-26 14:36:59.072 UBA Expo[49388:70b] Resetting plugins due to page load.
-2014-08-26 14:36:59.423 UBA Expo[49388:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 14:37:10.773 UBA Expo[49388:70b] CDVWebViewDelegate: Navigation started when state=1
-2014-08-26 14:37:10.774 UBA Expo[49388:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
-2014-08-26 14:37:10.774 UBA Expo[49388:70b] Resetting plugins due to page load.
-2014-08-26 14:37:11.890 UBA Expo[49388:70b] Finished load of: https://www.google.com/?gws_rd=ssl
-Terminating in response to SpringBoard's termination.
-2014-08-26 15:09:36.721 UBA Expo[50180:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:09:36.953 UBA Expo[50180:70b] Unlimited access to network resources
-2014-08-26 15:09:38.365 UBA Expo[50180:70b] [CDVTimer][keyboard] 0.140011ms
-2014-08-26 15:09:38.613 UBA Expo[50180:70b] [CDVTimer][statusbar] 247.895002ms
-2014-08-26 15:09:38.614 UBA Expo[50180:70b] [CDVTimer][TotalPluginStartup] 249.740005ms
-2014-08-26 15:09:39.273 UBA Expo[50180:70b] Resetting plugins due to page load.
-2014-08-26 15:09:40.030 UBA Expo[50180:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:09:45.903 UBA Expo[50180:70b] THREAD WARNING: ['InAppBrowser'] took '506.297607' ms. Plugin should use a background thread.
-2014-08-26 15:19:18.028 UBA Expo[50423:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:19:18.576 UBA Expo[50423:70b] Unlimited access to network resources
-2014-08-26 15:19:20.351 UBA Expo[50423:70b] [CDVTimer][keyboard] 1.236975ms
-2014-08-26 15:19:20.702 UBA Expo[50423:70b] [CDVTimer][statusbar] 349.786997ms
-2014-08-26 15:19:20.735 UBA Expo[50423:70b] [CDVTimer][TotalPluginStartup] 385.219991ms
-2014-08-26 15:19:21.516 UBA Expo[50423:70b] Resetting plugins due to page load.
-2014-08-26 15:19:22.075 UBA Expo[50423:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:19:32.265 UBA Expo[50423:70b] THREAD WARNING: ['InAppBrowser'] took '302.621826' ms. Plugin should use a background thread.
-2014-08-26 15:26:25.400 UBA Expo[50690:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:26:25.460 UBA Expo[50690:70b] Unlimited access to network resources
-2014-08-26 15:26:25.679 UBA Expo[50690:70b] [CDVTimer][keyboard] 0.100970ms
-2014-08-26 15:26:25.949 UBA Expo[50690:70b] [CDVTimer][statusbar] 269.370019ms
-2014-08-26 15:26:25.950 UBA Expo[50690:70b] [CDVTimer][TotalPluginStartup] 271.259964ms
-2014-08-26 15:26:26.068 UBA Expo[50690:70b] Resetting plugins due to page load.
-2014-08-26 15:26:26.388 UBA Expo[50690:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:26:34.110 UBA Expo[50690:70b] THREAD WARNING: ['InAppBrowser'] took '240.770996' ms. Plugin should use a background thread.
-2014-08-26 15:30:30.517 UBA Expo[50932:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:30:30.610 UBA Expo[50932:70b] Unlimited access to network resources
-2014-08-26 15:30:30.752 UBA Expo[50932:70b] [CDVTimer][keyboard] 0.102997ms
-2014-08-26 15:30:30.851 UBA Expo[50932:70b] [CDVTimer][statusbar] 98.762989ms
-2014-08-26 15:30:30.852 UBA Expo[50932:70b] [CDVTimer][TotalPluginStartup] 100.414991ms
-2014-08-26 15:30:31.041 UBA Expo[50932:70b] Resetting plugins due to page load.
-2014-08-26 15:30:31.794 UBA Expo[50932:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:30:37.991 UBA Expo[50932:70b] THREAD WARNING: ['InAppBrowser'] took '189.948975' ms. Plugin should use a background thread.
-2014-08-26 15:34:42.545 UBA Expo[51180:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:34:42.626 UBA Expo[51180:70b] Unlimited access to network resources
-2014-08-26 15:34:42.741 UBA Expo[51180:70b] [CDVTimer][keyboard] 0.073969ms
-2014-08-26 15:34:42.857 UBA Expo[51180:70b] [CDVTimer][statusbar] 115.451992ms
-2014-08-26 15:34:42.858 UBA Expo[51180:70b] [CDVTimer][TotalPluginStartup] 117.006004ms
-2014-08-26 15:34:43.031 UBA Expo[51180:70b] Resetting plugins due to page load.
-2014-08-26 15:34:43.722 UBA Expo[51180:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:35:13.370 UBA Expo[51180:70b] THREAD WARNING: ['InAppBrowser'] took '290.332275' ms. Plugin should use a background thread.
-2014-08-26 15:47:59.254 UBA Expo[51451:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 15:47:59.263 UBA Expo[51451:70b] Unlimited access to network resources
-2014-08-26 15:47:59.311 UBA Expo[51451:70b] [CDVTimer][keyboard] 0.075996ms
-2014-08-26 15:47:59.337 UBA Expo[51451:70b] [CDVTimer][statusbar] 24.992049ms
-2014-08-26 15:47:59.337 UBA Expo[51451:70b] [CDVTimer][TotalPluginStartup] 26.353002ms
-2014-08-26 15:47:59.503 UBA Expo[51451:70b] Resetting plugins due to page load.
-2014-08-26 15:47:59.690 UBA Expo[51451:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 15:48:49.382 UBA Expo[51451:70b] THREAD WARNING: ['InAppBrowser'] took '63.217773' ms. Plugin should use a background thread.
-2014-08-26 16:07:06.454 UBA Expo[51701:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 16:07:06.520 UBA Expo[51701:70b] Unlimited access to network resources
-2014-08-26 16:07:06.631 UBA Expo[51701:70b] [CDVTimer][keyboard] 0.115037ms
-2014-08-26 16:07:06.643 UBA Expo[51701:70b] [CDVTimer][statusbar] 11.795998ms
-2014-08-26 16:07:06.644 UBA Expo[51701:70b] [CDVTimer][TotalPluginStartup] 13.174057ms
-2014-08-26 16:07:06.860 UBA Expo[51701:70b] Resetting plugins due to page load.
-2014-08-26 16:07:07.166 UBA Expo[51701:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 16:07:13.241 UBA Expo[51701:70b] THREAD WARNING: ['InAppBrowser'] took '98.032959' ms. Plugin should use a background thread.
-FAILED to create agar for HelveticaLTMM.
-FAILED to create agar for TimesLTMM.
-2014-08-26 16:12:54.884 UBA Expo[51939:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 16:12:54.895 UBA Expo[51939:70b] Unlimited access to network resources
-2014-08-26 16:12:54.921 UBA Expo[51939:70b] [CDVTimer][keyboard] 0.110984ms
-2014-08-26 16:12:54.932 UBA Expo[51939:70b] [CDVTimer][statusbar] 11.156976ms
-2014-08-26 16:12:54.933 UBA Expo[51939:70b] [CDVTimer][TotalPluginStartup] 12.488008ms
-2014-08-26 16:12:55.145 UBA Expo[51939:70b] Resetting plugins due to page load.
-2014-08-26 16:12:55.466 UBA Expo[51939:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-26 16:12:59.755 UBA Expo[51939:70b] THREAD WARNING: ['InAppBrowser'] took '25.294189' ms. Plugin should use a background thread.
-2014-08-26 16:21:45.168 UBA Expo[52194:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-26 16:21:45.245 UBA Expo[52194:70b] Unlimited access to network resources
-2014-08-26 16:21:45.265 UBA Expo[52194:70b] DiskImageCache: Could not resolve the absolute path of the old directory.
-2014-08-26 16:21:45.278 UBA Expo[52194:70b] [CDVTimer][keyboard] 0.117004ms
-2014-08-26 16:21:45.410 UBA Expo[52194:70b] [CDVTimer][statusbar] 131.501019ms
-2014-08-26 16:21:45.411 UBA Expo[52194:70b] [CDVTimer][TotalPluginStartup] 132.928967ms
-2014-08-26 16:21:45.623 UBA Expo[52194:70b] Resetting plugins due to page load.
-2014-08-26 16:21:46.113 UBA Expo[52194:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-27 15:23:46.547 UBA Expo[56553:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-27 15:23:46.626 UBA Expo[56553:70b] Unlimited access to network resources
-2014-08-27 15:23:48.369 UBA Expo[56553:70b] [CDVTimer][keyboard] 0.131965ms
-2014-08-27 15:23:48.789 UBA Expo[56553:70b] [CDVTimer][statusbar] 418.739021ms
-2014-08-27 15:23:48.789 UBA Expo[56553:70b] [CDVTimer][TotalPluginStartup] 420.729995ms
-2014-08-27 15:23:49.346 UBA Expo[56553:70b] Resetting plugins due to page load.
-2014-08-27 15:23:50.307 UBA Expo[56553:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-27 15:23:57.115 UBA Expo[56553:70b] THREAD WARNING: ['InAppBrowser'] took '367.202148' ms. Plugin should use a background thread.
-2014-08-27 15:26:23.310 UBA Expo[56818:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-27 15:26:23.385 UBA Expo[56818:70b] Unlimited access to network resources
-2014-08-27 15:26:23.529 UBA Expo[56818:70b] [CDVTimer][keyboard] 0.109017ms
-2014-08-27 15:26:23.582 UBA Expo[56818:70b] [CDVTimer][statusbar] 52.093029ms
-2014-08-27 15:26:23.583 UBA Expo[56818:70b] [CDVTimer][TotalPluginStartup] 53.409994ms
-2014-08-27 15:26:23.753 UBA Expo[56818:70b] Resetting plugins due to page load.
-2014-08-27 15:26:24.116 UBA Expo[56818:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-Terminating in response to SpringBoard's termination.
-2014-08-27 17:09:13.458 UBA Expo[58458:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-27 17:09:14.262 UBA Expo[58458:70b] Unlimited access to network resources
-2014-08-27 17:09:18.252 UBA Expo[58458:70b] [CDVTimer][keyboard] 0.478983ms
-2014-08-27 17:09:18.719 UBA Expo[58458:70b] [CDVTimer][statusbar] 466.298044ms
-2014-08-27 17:09:18.720 UBA Expo[58458:70b] [CDVTimer][TotalPluginStartup] 468.469977ms
-2014-08-27 17:09:19.317 UBA Expo[58458:70b] Resetting plugins due to page load.
-2014-08-27 17:09:20.283 UBA Expo[58458:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-27 17:09:25.679 UBA Expo[58458:70b] THREAD WARNING: ['InAppBrowser'] took '369.356201' ms. Plugin should use a background thread.
-2014-08-28 09:39:49.512 UBA Expo[58458:70b] THREAD WARNING: ['InAppBrowser'] took '308.572754' ms. Plugin should use a background thread.
-2014-08-28 09:46:05.245 UBA Expo[59589:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 09:46:05.370 UBA Expo[59589:70b] Unlimited access to network resources
-2014-08-28 09:46:05.952 UBA Expo[59589:70b] [CDVTimer][keyboard] 0.104964ms
-2014-08-28 09:46:06.059 UBA Expo[59589:70b] [CDVTimer][statusbar] 106.061995ms
-2014-08-28 09:46:06.059 UBA Expo[59589:70b] [CDVTimer][TotalPluginStartup] 107.570052ms
-2014-08-28 09:46:06.262 UBA Expo[59589:70b] Resetting plugins due to page load.
-2014-08-28 09:46:07.720 UBA Expo[59589:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 09:47:21.349 UBA Expo[59846:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 09:47:21.443 UBA Expo[59846:70b] Unlimited access to network resources
-2014-08-28 09:47:21.487 UBA Expo[59846:70b] [CDVTimer][keyboard] 0.078022ms
-2014-08-28 09:47:21.645 UBA Expo[59846:70b] [CDVTimer][statusbar] 158.092976ms
-2014-08-28 09:47:21.646 UBA Expo[59846:70b] [CDVTimer][TotalPluginStartup] 159.550011ms
-2014-08-28 09:47:21.789 UBA Expo[59846:70b] Resetting plugins due to page load.
-2014-08-28 09:47:22.548 UBA Expo[59846:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 09:49:16.686 UBA Expo[60112:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 09:49:16.725 UBA Expo[60112:70b] Unlimited access to network resources
-2014-08-28 09:49:16.753 UBA Expo[60112:70b] [CDVTimer][keyboard] 0.069976ms
-2014-08-28 09:49:16.783 UBA Expo[60112:70b] [CDVTimer][statusbar] 29.196978ms
-2014-08-28 09:49:16.783 UBA Expo[60112:70b] [CDVTimer][TotalPluginStartup] 30.476987ms
-2014-08-28 09:49:16.911 UBA Expo[60112:70b] Resetting plugins due to page load.
-2014-08-28 09:49:17.294 UBA Expo[60112:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-Terminating in response to SpringBoard's termination.
-2014-08-28 10:03:30.740 UBA Expo[60391:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 10:03:30.751 UBA Expo[60391:70b] Unlimited access to network resources
-2014-08-28 10:03:30.769 UBA Expo[60391:70b] [CDVTimer][keyboard] 0.072002ms
-2014-08-28 10:03:30.792 UBA Expo[60391:70b] [CDVTimer][statusbar] 22.951007ms
-2014-08-28 10:03:30.793 UBA Expo[60391:70b] [CDVTimer][TotalPluginStartup] 24.596989ms
-2014-08-28 10:03:30.893 UBA Expo[60391:70b] Resetting plugins due to page load.
-2014-08-28 10:03:31.057 UBA Expo[60391:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 10:03:35.725 UBA Expo[60391:70b] THREAD WARNING: ['InAppBrowser'] took '257.582275' ms. Plugin should use a background thread.
-FAILED to create agar for HelveticaLTMM.
-FAILED to create agar for TimesLTMM.
-2014-08-28 11:37:57.054 UBA Expo[60713:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 11:37:57.072 UBA Expo[60713:70b] Unlimited access to network resources
-2014-08-28 11:37:57.090 UBA Expo[60713:70b] [CDVTimer][keyboard] 0.074029ms
-2014-08-28 11:37:57.099 UBA Expo[60713:70b] [CDVTimer][statusbar] 8.287013ms
-2014-08-28 11:37:57.099 UBA Expo[60713:70b] [CDVTimer][TotalPluginStartup] 9.454012ms
-2014-08-28 11:37:57.197 UBA Expo[60713:70b] Resetting plugins due to page load.
-2014-08-28 11:37:57.410 UBA Expo[60713:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 11:41:28.040 UBA Expo[60966:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 11:41:28.052 UBA Expo[60966:70b] Unlimited access to network resources
-2014-08-28 11:41:28.078 UBA Expo[60966:70b] [CDVTimer][keyboard] 0.104010ms
-2014-08-28 11:41:28.101 UBA Expo[60966:70b] [CDVTimer][statusbar] 22.095025ms
-2014-08-28 11:41:28.102 UBA Expo[60966:70b] [CDVTimer][TotalPluginStartup] 23.530006ms
-2014-08-28 11:41:28.229 UBA Expo[60966:70b] Resetting plugins due to page load.
-2014-08-28 11:41:28.364 UBA Expo[60966:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 11:42:52.610 UBA Expo[61229:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 11:42:52.622 UBA Expo[61229:70b] Unlimited access to network resources
-2014-08-28 11:42:52.648 UBA Expo[61229:70b] [CDVTimer][keyboard] 0.135005ms
-2014-08-28 11:42:52.661 UBA Expo[61229:70b] [CDVTimer][statusbar] 12.203991ms
-2014-08-28 11:42:52.662 UBA Expo[61229:70b] [CDVTimer][TotalPluginStartup] 13.805985ms
-2014-08-28 11:42:52.782 UBA Expo[61229:70b] Resetting plugins due to page load.
-2014-08-28 11:42:52.945 UBA Expo[61229:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 13:11:44.809 UBA Expo[61632:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 13:11:44.851 UBA Expo[61632:70b] Unlimited access to network resources
-2014-08-28 13:11:44.887 UBA Expo[61632:70b] [CDVTimer][keyboard] 0.074029ms
-2014-08-28 13:11:44.930 UBA Expo[61632:70b] [CDVTimer][statusbar] 42.692006ms
-2014-08-28 13:11:44.931 UBA Expo[61632:70b] [CDVTimer][TotalPluginStartup] 44.243038ms
-2014-08-28 13:11:45.065 UBA Expo[61632:70b] Resetting plugins due to page load.
-2014-08-28 13:11:45.507 UBA Expo[61632:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-Terminating in response to SpringBoard's termination.
-2014-08-28 13:21:40.982 UBA Expo[61902:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 13:21:41.008 UBA Expo[61902:70b] Unlimited access to network resources
-2014-08-28 13:21:41.047 UBA Expo[61902:70b] [CDVTimer][keyboard] 0.086010ms
-2014-08-28 13:21:41.074 UBA Expo[61902:70b] [CDVTimer][statusbar] 26.446998ms
-2014-08-28 13:21:41.075 UBA Expo[61902:70b] [CDVTimer][TotalPluginStartup] 27.696967ms
-2014-08-28 13:21:41.188 UBA Expo[61902:70b] Resetting plugins due to page load.
-2014-08-28 13:21:41.584 UBA Expo[61902:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 14:31:03.518 UBA Expo[62282:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 14:31:03.556 UBA Expo[62282:70b] Unlimited access to network resources
-2014-08-28 14:31:03.595 UBA Expo[62282:70b] [CDVTimer][keyboard] 0.075042ms
-2014-08-28 14:31:03.632 UBA Expo[62282:70b] [CDVTimer][statusbar] 36.917984ms
-2014-08-28 14:31:03.633 UBA Expo[62282:70b] [CDVTimer][TotalPluginStartup] 38.466990ms
-2014-08-28 14:31:03.733 UBA Expo[62282:70b] Resetting plugins due to page load.
-2014-08-28 14:31:04.027 UBA Expo[62282:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 14:37:21.337 UBA Expo[62547:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 14:37:21.373 UBA Expo[62547:70b] Unlimited access to network resources
-2014-08-28 14:37:21.403 UBA Expo[62547:70b] [CDVTimer][keyboard] 0.072956ms
-2014-08-28 14:37:21.434 UBA Expo[62547:70b] [CDVTimer][statusbar] 30.441999ms
-2014-08-28 14:37:21.435 UBA Expo[62547:70b] [CDVTimer][TotalPluginStartup] 31.766951ms
-2014-08-28 14:37:21.570 UBA Expo[62547:70b] Resetting plugins due to page load.
-2014-08-28 14:37:21.926 UBA Expo[62547:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 14:39:38.374 UBA Expo[63047:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 14:39:38.412 UBA Expo[63047:70b] Unlimited access to network resources
-2014-08-28 14:39:38.453 UBA Expo[63047:70b] [CDVTimer][keyboard] 0.078022ms
-2014-08-28 14:39:38.519 UBA Expo[63047:70b] [CDVTimer][statusbar] 65.389991ms
-2014-08-28 14:39:38.520 UBA Expo[63047:70b] [CDVTimer][TotalPluginStartup] 66.936016ms
-2014-08-28 14:39:38.661 UBA Expo[63047:70b] Resetting plugins due to page load.
-2014-08-28 14:39:38.994 UBA Expo[63047:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 14:59:17.720 UBA Expo[63311:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 14:59:17.760 UBA Expo[63311:70b] Unlimited access to network resources
-2014-08-28 14:59:17.799 UBA Expo[63311:70b] [CDVTimer][keyboard] 0.081003ms
-2014-08-28 14:59:17.828 UBA Expo[63311:70b] [CDVTimer][statusbar] 28.699994ms
-2014-08-28 14:59:17.829 UBA Expo[63311:70b] [CDVTimer][TotalPluginStartup] 30.014992ms
-2014-08-28 14:59:17.948 UBA Expo[63311:70b] Resetting plugins due to page load.
-2014-08-28 14:59:18.407 UBA Expo[63311:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 14:59:23.278 UBA Expo[63311:70b] THREAD WARNING: ['InAppBrowser'] took '122.691895' ms. Plugin should use a background thread.
-2014-08-28 15:02:51.018 UBA Expo[63568:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 15:02:51.058 UBA Expo[63568:70b] Unlimited access to network resources
-2014-08-28 15:02:51.086 UBA Expo[63568:70b] [CDVTimer][keyboard] 0.072956ms
-2014-08-28 15:02:51.154 UBA Expo[63568:70b] [CDVTimer][statusbar] 67.644000ms
-2014-08-28 15:02:51.155 UBA Expo[63568:70b] [CDVTimer][TotalPluginStartup] 68.976045ms
-2014-08-28 15:02:51.270 UBA Expo[63568:70b] Resetting plugins due to page load.
-2014-08-28 15:02:52.184 UBA Expo[63568:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 15:02:57.625 UBA Expo[63568:70b] THREAD WARNING: ['InAppBrowser'] took '54.501953' ms. Plugin should use a background thread.
-2014-08-28 15:04:21.043 UBA Expo[63821:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 15:04:21.083 UBA Expo[63821:70b] Unlimited access to network resources
-2014-08-28 15:04:21.122 UBA Expo[63821:70b] [CDVTimer][keyboard] 0.073016ms
-2014-08-28 15:04:21.232 UBA Expo[63821:70b] [CDVTimer][statusbar] 109.696031ms
-2014-08-28 15:04:21.233 UBA Expo[63821:70b] [CDVTimer][TotalPluginStartup] 111.225009ms
-2014-08-28 15:04:21.396 UBA Expo[63821:70b] Resetting plugins due to page load.
-2014-08-28 15:04:21.876 UBA Expo[63821:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-08-28 15:04:26.323 UBA Expo[63821:70b] THREAD WARNING: ['InAppBrowser'] took '35.207764' ms. Plugin should use a background thread.
-2014-08-28 15:50:57.341 UBA Expo[64119:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 15:50:57.372 UBA Expo[64119:70b] Unlimited access to network resources
-2014-08-28 15:50:57.460 UBA Expo[64119:70b] [CDVTimer][keyboard] 0.100017ms
-2014-08-28 15:50:57.568 UBA Expo[64119:70b] [CDVTimer][statusbar] 107.719958ms
-2014-08-28 15:50:57.569 UBA Expo[64119:70b] [CDVTimer][TotalPluginStartup] 109.478951ms
-2014-08-28 15:50:57.699 UBA Expo[64119:70b] Resetting plugins due to page load.
-2014-08-28 15:50:58.113 UBA Expo[64119:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html
-2014-08-28 15:54:05.538 UBA Expo[64385:70b] Multi-tasking -> Device: YES, App: YES
-2014-08-28 15:54:05.596 UBA Expo[64385:70b] Unlimited access to network resources
-2014-08-28 15:54:05.692 UBA Expo[64385:70b] [CDVTimer][keyboard] 0.097990ms
-2014-08-28 15:54:05.728 UBA Expo[64385:70b] [CDVTimer][statusbar] 34.184992ms
-2014-08-28 15:54:05.728 UBA Expo[64385:70b] [CDVTimer][TotalPluginStartup] 35.767972ms
-2014-08-28 15:54:05.909 UBA Expo[64385:70b] Resetting plugins due to page load.
-2014-08-28 15:54:06.894 UBA Expo[64385:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html
-2014-09-02 12:04:09.746 UBA Expo[68915:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 12:04:09.986 UBA Expo[68915:70b] Unlimited access to network resources
-2014-09-02 12:04:12.990 UBA Expo[68915:70b] [CDVTimer][keyboard] 0.106037ms
-2014-09-02 12:04:13.317 UBA Expo[68915:70b] [CDVTimer][statusbar] 326.889038ms
-2014-09-02 12:04:13.318 UBA Expo[68915:70b] [CDVTimer][TotalPluginStartup] 328.266025ms
-2014-09-02 12:04:13.732 UBA Expo[68915:70b] Resetting plugins due to page load.
-2014-09-02 12:04:14.607 UBA Expo[68915:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 12:04:21.239 UBA Expo[68915:70b] THREAD WARNING: ['InAppBrowser'] took '314.169922' ms. Plugin should use a background thread.
-2014-09-02 12:09:44.021 UBA Expo[69193:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 12:09:44.059 UBA Expo[69193:70b] Unlimited access to network resources
-2014-09-02 12:09:44.155 UBA Expo[69193:70b] [CDVTimer][keyboard] 0.102997ms
-2014-09-02 12:09:44.237 UBA Expo[69193:70b] [CDVTimer][statusbar] 81.321001ms
-2014-09-02 12:09:44.238 UBA Expo[69193:70b] [CDVTimer][TotalPluginStartup] 83.153009ms
-2014-09-02 12:09:44.384 UBA Expo[69193:70b] Resetting plugins due to page load.
-2014-09-02 12:09:44.831 UBA Expo[69193:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 12:09:48.885 UBA Expo[69193:70b] THREAD WARNING: ['InAppBrowser'] took '157.773926' ms. Plugin should use a background thread.
-2014-09-02 12:18:51.169 UBA Expo[69464:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 12:18:51.207 UBA Expo[69464:70b] Unlimited access to network resources
-2014-09-02 12:18:51.241 UBA Expo[69464:70b] [CDVTimer][keyboard] 0.077963ms
-2014-09-02 12:18:51.290 UBA Expo[69464:70b] [CDVTimer][statusbar] 48.503041ms
-2014-09-02 12:18:51.291 UBA Expo[69464:70b] [CDVTimer][TotalPluginStartup] 50.212979ms
-2014-09-02 12:18:51.422 UBA Expo[69464:70b] Resetting plugins due to page load.
-2014-09-02 12:18:51.715 UBA Expo[69464:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 12:18:58.692 UBA Expo[69464:70b] THREAD WARNING: ['InAppBrowser'] took '100.808838' ms. Plugin should use a background thread.
-2014-09-02 14:14:19.704 UBA Expo[69838:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 14:14:19.743 UBA Expo[69838:70b] Unlimited access to network resources
-2014-09-02 14:14:19.773 UBA Expo[69838:70b] [CDVTimer][keyboard] 0.073016ms
-2014-09-02 14:14:19.858 UBA Expo[69838:70b] [CDVTimer][statusbar] 84.121048ms
-2014-09-02 14:14:19.859 UBA Expo[69838:70b] [CDVTimer][TotalPluginStartup] 85.598052ms
-2014-09-02 14:14:19.977 UBA Expo[69838:70b] Resetting plugins due to page load.
-2014-09-02 14:14:20.291 UBA Expo[69838:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 14:14:24.900 UBA Expo[69838:70b] THREAD WARNING: ['InAppBrowser'] took '66.229736' ms. Plugin should use a background thread.
-Terminating in response to SpringBoard's termination.
-2014-09-02 16:03:26.207 UBA Expo[70256:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:03:26.218 UBA Expo[70256:70b] Unlimited access to network resources
-2014-09-02 16:03:26.327 UBA Expo[70256:70b] [CDVTimer][keyboard] 0.076056ms
-2014-09-02 16:03:26.354 UBA Expo[70256:70b] [CDVTimer][statusbar] 26.042044ms
-2014-09-02 16:03:26.355 UBA Expo[70256:70b] [CDVTimer][TotalPluginStartup] 27.154028ms
-2014-09-02 16:03:26.486 UBA Expo[70256:70b] Resetting plugins due to page load.
-2014-09-02 16:03:27.456 UBA Expo[70256:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:03:31.247 UBA Expo[70256:70b] THREAD WARNING: ['InAppBrowser'] took '108.375000' ms. Plugin should use a background thread.
-Terminating in response to SpringBoard's termination.
-2014-09-02 16:05:45.107 UBA Expo[70515:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:05:45.133 UBA Expo[70515:70b] Unlimited access to network resources
-2014-09-02 16:05:45.153 UBA Expo[70515:70b] [CDVTimer][keyboard] 0.068009ms
-2014-09-02 16:05:45.162 UBA Expo[70515:70b] [CDVTimer][statusbar] 8.498967ms
-2014-09-02 16:05:45.163 UBA Expo[70515:70b] [CDVTimer][TotalPluginStartup] 9.711981ms
-2014-09-02 16:05:45.352 UBA Expo[70515:70b] Resetting plugins due to page load.
-2014-09-02 16:05:45.500 UBA Expo[70515:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:06:00.406 UBA Expo[70515:70b] THREAD WARNING: ['InAppBrowser'] took '20.915771' ms. Plugin should use a background thread.
-2014-09-02 16:27:00.389 UBA Expo[70790:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:27:00.412 UBA Expo[70790:70b] Unlimited access to network resources
-2014-09-02 16:27:00.437 UBA Expo[70790:70b] [CDVTimer][keyboard] 0.110984ms
-2014-09-02 16:27:00.496 UBA Expo[70790:70b] [CDVTimer][statusbar] 58.229983ms
-2014-09-02 16:27:00.497 UBA Expo[70790:70b] [CDVTimer][TotalPluginStartup] 59.637010ms
-2014-09-02 16:27:00.625 UBA Expo[70790:70b] Resetting plugins due to page load.
-2014-09-02 16:27:01.083 UBA Expo[70790:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:29:00.283 UBA Expo[70790:70b] Resetting plugins due to page load.
-2014-09-02 16:29:00.320 UBA Expo[70790:70b] Failed to load webpage with error: The requested URL was not found on this server.
-2014-09-02 16:29:04.101 UBA Expo[70790:70b] Resetting plugins due to page load.
-2014-09-02 16:29:04.104 UBA Expo[70790:70b] Failed to load webpage with error: The requested URL was not found on this server.
-2014-09-02 16:30:18.176 UBA Expo[71050:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:30:18.187 UBA Expo[71050:70b] Unlimited access to network resources
-2014-09-02 16:30:18.212 UBA Expo[71050:70b] [CDVTimer][keyboard] 0.123024ms
-2014-09-02 16:30:18.241 UBA Expo[71050:70b] [CDVTimer][statusbar] 27.869046ms
-2014-09-02 16:30:18.242 UBA Expo[71050:70b] [CDVTimer][TotalPluginStartup] 29.923975ms
-2014-09-02 16:30:18.345 UBA Expo[71050:70b] Resetting plugins due to page load.
-2014-09-02 16:30:18.483 UBA Expo[71050:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:30:28.408 UBA Expo[71050:70b] Resetting plugins due to page load.
-2014-09-02 16:30:28.422 UBA Expo[71050:70b] Failed to load webpage with error: The requested URL was not found on this server.
-2014-09-02 16:32:24.935 UBA Expo[71309:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:32:24.947 UBA Expo[71309:70b] Unlimited access to network resources
-2014-09-02 16:32:24.971 UBA Expo[71309:70b] [CDVTimer][keyboard] 0.072002ms
-2014-09-02 16:32:24.982 UBA Expo[71309:70b] [CDVTimer][statusbar] 10.660946ms
-2014-09-02 16:32:24.983 UBA Expo[71309:70b] [CDVTimer][TotalPluginStartup] 11.874020ms
-2014-09-02 16:32:25.099 UBA Expo[71309:70b] Resetting plugins due to page load.
-2014-09-02 16:32:25.282 UBA Expo[71309:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:32:29.000 UBA Expo[71309:70b] Resetting plugins due to page load.
-2014-09-02 16:32:29.008 UBA Expo[71309:70b] Failed to load webpage with error: The requested URL was not found on this server.
-2014-09-02 16:34:49.744 UBA Expo[71564:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 16:34:49.765 UBA Expo[71564:70b] Unlimited access to network resources
-2014-09-02 16:34:49.783 UBA Expo[71564:70b] [CDVTimer][keyboard] 0.070989ms
-2014-09-02 16:34:49.853 UBA Expo[71564:70b] [CDVTimer][statusbar] 69.518983ms
-2014-09-02 16:34:49.854 UBA Expo[71564:70b] [CDVTimer][TotalPluginStartup] 70.811987ms
-2014-09-02 16:34:49.980 UBA Expo[71564:70b] Resetting plugins due to page load.
-2014-09-02 16:34:50.170 UBA Expo[71564:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 16:34:54.704 UBA Expo[71564:70b] THREAD WARNING: ['InAppBrowser'] took '110.896729' ms. Plugin should use a background thread.
-2014-09-02 17:10:40.690 UBA Expo[71861:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-02 17:10:40.712 UBA Expo[71861:70b] Unlimited access to network resources
-2014-09-02 17:10:41.098 UBA Expo[71861:70b] [CDVTimer][keyboard] 0.073969ms
-2014-09-02 17:10:41.162 UBA Expo[71861:70b] [CDVTimer][statusbar] 62.965989ms
-2014-09-02 17:10:41.163 UBA Expo[71861:70b] [CDVTimer][TotalPluginStartup] 64.359009ms
-2014-09-02 17:10:41.264 UBA Expo[71861:70b] Resetting plugins due to page load.
-2014-09-02 17:10:41.972 UBA Expo[71861:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-02 17:10:47.084 UBA Expo[71861:70b] THREAD WARNING: ['InAppBrowser'] took '113.051270' ms. Plugin should use a background thread.
-2014-09-03 09:20:51.395 UBA Expo[72800:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 09:20:51.522 UBA Expo[72800:70b] Unlimited access to network resources
-2014-09-03 09:20:55.658 UBA Expo[72800:70b] [CDVTimer][keyboard] 0.073016ms
-2014-09-03 09:20:55.667 UBA Expo[72800:70b] [CDVTimer][statusbar] 8.405983ms
-2014-09-03 09:20:55.667 UBA Expo[72800:70b] [CDVTimer][TotalPluginStartup] 9.600997ms
-2014-09-03 09:20:55.764 UBA Expo[72800:70b] Resetting plugins due to page load.
-2014-09-03 09:20:56.035 UBA Expo[72800:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 09:21:50.037 UBA Expo[72800:70b] THREAD WARNING: ['InAppBrowser'] took '175.655273' ms. Plugin should use a background thread.
-2014-09-03 10:40:29.828 UBA Expo[73409:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 10:40:29.926 UBA Expo[73409:70b] Unlimited access to network resources
-2014-09-03 10:40:30.354 UBA Expo[73409:70b] [CDVTimer][keyboard] 0.077963ms
-2014-09-03 10:40:30.497 UBA Expo[73409:70b] [CDVTimer][statusbar] 141.964018ms
-2014-09-03 10:40:30.498 UBA Expo[73409:70b] [CDVTimer][TotalPluginStartup] 143.668950ms
-2014-09-03 10:40:30.942 UBA Expo[73409:70b] Resetting plugins due to page load.
-2014-09-03 10:40:31.379 UBA Expo[73409:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 11:20:04.228 UBA Expo[73731:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 11:20:04.283 UBA Expo[73731:70b] Unlimited access to network resources
-2014-09-03 11:20:06.826 UBA Expo[73731:70b] [CDVTimer][keyboard] 0.118017ms
-2014-09-03 11:20:07.138 UBA Expo[73731:70b] [CDVTimer][statusbar] 310.519040ms
-2014-09-03 11:20:07.138 UBA Expo[73731:70b] [CDVTimer][TotalPluginStartup] 311.789036ms
-2014-09-03 11:20:07.664 UBA Expo[73731:70b] Resetting plugins due to page load.
-2014-09-03 11:20:08.388 UBA Expo[73731:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 11:27:47.974 UBA Expo[74005:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 11:27:48.021 UBA Expo[74005:70b] Unlimited access to network resources
-2014-09-03 11:27:48.097 UBA Expo[74005:70b] [CDVTimer][keyboard] 0.110030ms
-2014-09-03 11:27:48.205 UBA Expo[74005:70b] [CDVTimer][statusbar] 107.234001ms
-2014-09-03 11:27:48.206 UBA Expo[74005:70b] [CDVTimer][TotalPluginStartup] 108.585000ms
-2014-09-03 11:27:48.360 UBA Expo[74005:70b] Resetting plugins due to page load.
-2014-09-03 11:27:50.028 UBA Expo[74005:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 11:33:10.935 UBA Expo[74281:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 11:33:10.984 UBA Expo[74281:70b] Unlimited access to network resources
-2014-09-03 11:33:11.071 UBA Expo[74281:70b] [CDVTimer][keyboard] 0.100970ms
-2014-09-03 11:33:11.108 UBA Expo[74281:70b] [CDVTimer][statusbar] 36.220968ms
-2014-09-03 11:33:11.108 UBA Expo[74281:70b] [CDVTimer][TotalPluginStartup] 37.712991ms
-2014-09-03 11:33:11.316 UBA Expo[74281:70b] Resetting plugins due to page load.
-2014-09-03 11:33:11.917 UBA Expo[74281:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 11:36:39.486 UBA Expo[74549:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 11:36:39.586 UBA Expo[74549:70b] Unlimited access to network resources
-2014-09-03 11:36:39.805 UBA Expo[74549:70b] [CDVTimer][keyboard] 0.099957ms
-2014-09-03 11:36:39.952 UBA Expo[74549:70b] [CDVTimer][statusbar] 146.156967ms
-2014-09-03 11:36:39.953 UBA Expo[74549:70b] [CDVTimer][TotalPluginStartup] 147.451997ms
-2014-09-03 11:36:40.141 UBA Expo[74549:70b] Resetting plugins due to page load.
-2014-09-03 11:36:40.606 UBA Expo[74549:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 14:49:00.439 UBA Expo[75273:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 14:49:00.999 UBA Expo[75273:70b] Unlimited access to network resources
-2014-09-03 14:49:02.054 UBA Expo[75273:70b] [CDVTimer][keyboard] 0.132024ms
-2014-09-03 14:49:02.367 UBA Expo[75273:70b] [CDVTimer][statusbar] 311.910987ms
-2014-09-03 14:49:02.368 UBA Expo[75273:70b] [CDVTimer][TotalPluginStartup] 313.850999ms
-2014-09-03 14:49:02.697 UBA Expo[75273:70b] Resetting plugins due to page load.
-2014-09-03 14:49:04.277 UBA Expo[75273:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 14:49:53.856 UBA Expo[75273:70b] THREAD WARNING: ['InAppBrowser'] took '363.009277' ms. Plugin should use a background thread.
-FAILED to create agar for HelveticaLTMM.
-FAILED to create agar for TimesLTMM.
-2014-09-03 15:27:18.218 UBA Expo[75598:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 15:27:18.510 UBA Expo[75598:70b] Unlimited access to network resources
-2014-09-03 15:27:20.510 UBA Expo[75598:70b] [CDVTimer][keyboard] 0.140011ms
-2014-09-03 15:27:20.889 UBA Expo[75598:70b] [CDVTimer][statusbar] 377.989054ms
-2014-09-03 15:27:20.890 UBA Expo[75598:70b] [CDVTimer][TotalPluginStartup] 379.875004ms
-2014-09-03 15:27:21.245 UBA Expo[75598:70b] Resetting plugins due to page load.
-2014-09-03 15:27:22.255 UBA Expo[75598:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-Terminating in response to SpringBoard's termination.
-2014-09-03 15:35:44.902 UBA Expo[75894:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 15:35:45.180 UBA Expo[75894:70b] Unlimited access to network resources
-2014-09-03 15:35:46.682 UBA Expo[75894:70b] [CDVTimer][keyboard] 0.103056ms
-2014-09-03 15:35:47.015 UBA Expo[75894:70b] [CDVTimer][statusbar] 332.157016ms
-2014-09-03 15:35:47.016 UBA Expo[75894:70b] [CDVTimer][TotalPluginStartup] 334.226012ms
-2014-09-03 15:35:47.369 UBA Expo[75894:70b] Resetting plugins due to page load.
-2014-09-03 15:35:48.213 UBA Expo[75894:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 15:38:08.913 UBA Expo[76164:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 15:38:09.144 UBA Expo[76164:70b] Unlimited access to network resources
-2014-09-03 15:38:14.711 UBA Expo[76164:70b] [CDVTimer][keyboard] 0.088990ms
-2014-09-03 15:38:16.427 UBA Expo[76164:70b] [CDVTimer][statusbar] 1715.470016ms
-2014-09-03 15:38:16.428 UBA Expo[76164:70b] [CDVTimer][TotalPluginStartup] 1716.975987ms
-2014-09-03 15:38:18.122 UBA Expo[76164:70b] Resetting plugins due to page load.
-2014-09-03 15:38:24.585 UBA Expo[76164:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 15:42:15.036 UBA Expo[76469:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 15:42:15.075 UBA Expo[76469:70b] Unlimited access to network resources
-2014-09-03 15:42:15.115 UBA Expo[76469:70b] [CDVTimer][keyboard] 0.067949ms
-2014-09-03 15:42:15.124 UBA Expo[76469:70b] [CDVTimer][statusbar] 8.427978ms
-2014-09-03 15:42:15.124 UBA Expo[76469:70b] [CDVTimer][TotalPluginStartup] 9.584963ms
-2014-09-03 15:42:15.232 UBA Expo[76469:70b] Resetting plugins due to page load.
-2014-09-03 15:42:15.532 UBA Expo[76469:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 15:45:27.066 UBA Expo[76469:70b] Received memory warning.
-2014-09-03 15:51:51.826 UBA Expo[76824:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 15:51:51.865 UBA Expo[76824:70b] Unlimited access to network resources
-2014-09-03 15:51:51.904 UBA Expo[76824:70b] [CDVTimer][keyboard] 0.072002ms
-2014-09-03 15:51:52.041 UBA Expo[76824:70b] [CDVTimer][statusbar] 136.178970ms
-2014-09-03 15:51:52.042 UBA Expo[76824:70b] [CDVTimer][TotalPluginStartup] 137.667000ms
-2014-09-03 15:51:52.192 UBA Expo[76824:70b] Resetting plugins due to page load.
-2014-09-03 15:51:53.143 UBA Expo[76824:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-03 15:52:15.592 UBA Expo[76824:70b] THREAD WARNING: ['InAppBrowser'] took '468.455811' ms. Plugin should use a background thread.
-2014-09-03 16:31:17.928 UBA Expo[77137:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-03 16:31:18.008 UBA Expo[77137:70b] Unlimited access to network resources
-2014-09-03 16:31:18.048 UBA Expo[77137:70b] [CDVTimer][keyboard] 0.091970ms
-2014-09-03 16:31:18.104 UBA Expo[77137:70b] [CDVTimer][statusbar] 55.795014ms
-2014-09-03 16:31:18.105 UBA Expo[77137:70b] [CDVTimer][TotalPluginStartup] 57.288051ms
-2014-09-03 16:31:18.219 UBA Expo[77137:70b] Resetting plugins due to page load.
-2014-09-03 16:31:18.394 UBA Expo[77137:4617] ERROR: unable to get the receiver data from the DB!
-2014-09-03 16:31:18.914 UBA Expo[77137:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-04 11:10:26.881 UBA Expo[77137:70b] THREAD WARNING: ['InAppBrowser'] took '1632.020996' ms. Plugin should use a background thread.
-2014-09-04 15:21:39.511 UBA Expo[78897:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-04 15:21:39.712 UBA Expo[78897:70b] Unlimited access to network resources
-2014-09-04 15:21:40.901 UBA Expo[78897:70b] [CDVTimer][keyboard] 0.202954ms
-2014-09-04 15:21:41.234 UBA Expo[78897:70b] [CDVTimer][statusbar] 331.703007ms
-2014-09-04 15:21:41.234 UBA Expo[78897:70b] [CDVTimer][TotalPluginStartup] 333.633006ms
-2014-09-04 15:21:41.732 UBA Expo[78897:70b] Resetting plugins due to page load.
-2014-09-04 15:21:42.156 UBA Expo[78897:4613] ERROR: unable to get the receiver data from the DB!
-2014-09-04 15:21:43.181 UBA Expo[78897:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-04 15:23:01.567 UBA Expo[78897:70b] THREAD WARNING: ['InAppBrowser'] took '412.799316' ms. Plugin should use a background thread.
-2014-09-04 15:57:15.320 UBA Expo[79227:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-04 15:57:15.905 UBA Expo[79227:70b] Unlimited access to network resources
-2014-09-04 15:57:16.931 UBA Expo[79227:70b] [CDVTimer][keyboard] 0.133038ms
-2014-09-04 15:57:17.262 UBA Expo[79227:70b] [CDVTimer][statusbar] 330.489993ms
-2014-09-04 15:57:17.263 UBA Expo[79227:70b] [CDVTimer][TotalPluginStartup] 332.453012ms
-2014-09-04 15:57:17.656 UBA Expo[79227:70b] Resetting plugins due to page load.
-2014-09-04 15:57:17.908 UBA Expo[79227:4613] ERROR: unable to get the receiver data from the DB!
-2014-09-04 15:57:18.690 UBA Expo[79227:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-04 16:55:10.477 UBA Expo[79615:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-04 16:55:10.953 UBA Expo[79615:70b] Unlimited access to network resources
-2014-09-04 16:55:12.788 UBA Expo[79615:70b] [CDVTimer][keyboard] 0.138998ms
-2014-09-04 16:55:13.166 UBA Expo[79615:70b] [CDVTimer][statusbar] 376.994014ms
-2014-09-04 16:55:13.167 UBA Expo[79615:70b] [CDVTimer][TotalPluginStartup] 378.929973ms
-2014-09-04 16:55:13.597 UBA Expo[79615:70b] Resetting plugins due to page load.
-2014-09-04 16:55:13.989 UBA Expo[79615:4717] ERROR: unable to get the receiver data from the DB!
-2014-09-04 16:55:14.975 UBA Expo[79615:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-04 16:55:25.525 UBA Expo[79615:70b] THREAD WARNING: ['InAppBrowser'] took '346.556885' ms. Plugin should use a background thread.
-2014-09-04 17:06:31.975 UBA Expo[79615:70b] THREAD WARNING: ['InAppBrowser'] took '121.008789' ms. Plugin should use a background thread.
-2014-09-05 10:34:32.356 UBA Expo[80723:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-05 10:34:32.477 UBA Expo[80723:70b] Unlimited access to network resources
-2014-09-05 10:34:33.911 UBA Expo[80723:70b] [CDVTimer][keyboard] 0.136971ms
-2014-09-05 10:34:34.263 UBA Expo[80723:70b] [CDVTimer][statusbar] 351.166010ms
-2014-09-05 10:34:34.264 UBA Expo[80723:70b] [CDVTimer][TotalPluginStartup] 353.070021ms
-2014-09-05 10:34:34.816 UBA Expo[80723:70b] Resetting plugins due to page load.
-2014-09-05 10:34:35.120 UBA Expo[80723:4617] ERROR: unable to get the receiver data from the DB!
-2014-09-05 10:34:35.870 UBA Expo[80723:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-05 10:35:24.709 UBA Expo[80723:70b] ERROR: file:///Users/bbeswick/Library/Application<ion-view class="ng-enter pane">0Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/lib/ionic/js/ionic.bundle.js:10789:28
-2014-09-05 10:35:24.728 UBA Expo[80723:70b] THREAD WARNING: ['Console'] took '19.600830' ms. Plugin should use a background thread.
-2014-09-05 10:35:30.171 UBA Expo[80723:70b] THREAD WARNING: ['InAppBrowser'] took '2510.373291' ms. Plugin should use a background thread.
-2014-09-05 14:13:41.419 UBA Expo[81359:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-05 14:13:41.774 UBA Expo[81359:70b] Unlimited access to network resources
-2014-09-05 14:13:43.541 UBA Expo[81359:70b] [CDVTimer][keyboard] 0.130951ms
-2014-09-05 14:13:43.964 UBA Expo[81359:70b] [CDVTimer][statusbar] 422.617972ms
-2014-09-05 14:13:43.965 UBA Expo[81359:70b] [CDVTimer][TotalPluginStartup] 424.500048ms
-2014-09-05 14:13:44.321 UBA Expo[81359:70b] Resetting plugins due to page load.
-2014-09-05 14:13:44.513 UBA Expo[81359:4617] ERROR: unable to get the receiver data from the DB!
-2014-09-05 14:13:45.733 UBA Expo[81359:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-05 14:14:29.265 UBA Expo[81359:70b] THREAD WARNING: ['InAppBrowser'] took '374.391602' ms. Plugin should use a background thread.
-2014-09-05 14:23:11.592 UBA Expo[81885:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-05 14:23:11.777 UBA Expo[81885:70b] Unlimited access to network resources
-2014-09-05 14:23:13.792 UBA Expo[81885:70b] [CDVTimer][keyboard] 0.109017ms
-2014-09-05 14:23:14.129 UBA Expo[81885:70b] [CDVTimer][statusbar] 335.810959ms
-2014-09-05 14:23:14.129 UBA Expo[81885:70b] [CDVTimer][TotalPluginStartup] 337.662041ms
-2014-09-05 14:23:14.652 UBA Expo[81885:70b] Resetting plugins due to page load.
-2014-09-05 14:23:14.928 UBA Expo[81885:4613] ERROR: unable to get the receiver data from the DB!
-2014-09-05 14:23:16.181 UBA Expo[81885:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/93AA959C-496D-4C10-ABA5-73EB47724439/UBA%20Expo.app/www/index.html#/intro
-2014-09-05 14:23:21.886 UBA Expo[81885:70b] THREAD WARNING: ['InAppBrowser'] took '291.863770' ms. Plugin should use a background thread.
-2014-09-05 16:19:03.490 UBA Expo[82524:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-05 16:19:04.101 UBA Expo[82524:70b] Unlimited access to network resources
-2014-09-05 16:19:06.091 UBA Expo[82524:70b] [CDVTimer][keyboard] 0.136971ms
-2014-09-05 16:19:06.398 UBA Expo[82524:70b] [CDVTimer][statusbar] 305.579007ms
-2014-09-05 16:19:06.399 UBA Expo[82524:70b] [CDVTimer][TotalPluginStartup] 307.581007ms
-2014-09-05 16:19:06.707 UBA Expo[82524:70b] Resetting plugins due to page load.
-2014-09-05 16:19:08.680 UBA Expo[82524:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
-2014-09-05 16:19:08.725 UBA Expo[82524:70b] THREAD WARNING: ['Device'] took '10.385986' ms. Plugin should use a background thread.
-2014-09-05 16:56:25.105 UBA Expo[82856:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-05 16:56:25.200 UBA Expo[82856:70b] Unlimited access to network resources
-2014-09-05 16:56:26.660 UBA Expo[82856:70b] [CDVTimer][keyboard] 0.138998ms
-2014-09-05 16:56:26.990 UBA Expo[82856:70b] [CDVTimer][statusbar] 328.701019ms
-2014-09-05 16:56:27.012 UBA Expo[82856:70b] [CDVTimer][TotalPluginStartup] 351.528049ms
-2014-09-05 16:56:27.384 UBA Expo[82856:70b] Resetting plugins due to page load.
-2014-09-05 16:56:29.012 UBA Expo[82856:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
-2014-09-05 16:57:23.989 UBA Expo[82856:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
-2014-09-05 16:57:24.076 UBA Expo[82856:70b] THREAD WARNING: ['InAppBrowser'] took '365.087891' ms. Plugin should use a background thread.
-2014-09-05 16:57:39.391 UBA Expo[82856:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
-2014-09-05 16:57:39.423 UBA Expo[82856:70b] THREAD WARNING: ['InAppBrowser'] took '35.621826' ms. Plugin should use a background thread.
-2014-09-08 14:25:21.805 UBA Expo[86368:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-08 14:25:21.889 UBA Expo[86368:70b] Unlimited access to network resources
-2014-09-08 14:25:23.171 UBA Expo[86368:70b] [CDVTimer][keyboard] 0.135005ms
-2014-09-08 14:25:23.586 UBA Expo[86368:70b] [CDVTimer][statusbar] 414.291024ms
-2014-09-08 14:25:23.587 UBA Expo[86368:70b] [CDVTimer][TotalPluginStartup] 416.342020ms
-2014-09-08 14:25:24.123 UBA Expo[86368:70b] Resetting plugins due to page load.
-2014-09-08 14:25:25.363 UBA Expo[86368:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
-2014-09-08 14:25:30.681 UBA Expo[86368:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
-2014-09-08 14:25:30.817 UBA Expo[86368:70b] THREAD WARNING: ['InAppBrowser'] took '401.634766' ms. Plugin should use a background thread.
-2014-09-08 14:34:44.203 UBA Expo[86368:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
-2014-09-08 14:34:44.410 UBA Expo[86368:70b] THREAD WARNING: ['InAppBrowser'] took '517.980957' ms. Plugin should use a background thread.
-2014-09-08 14:42:39.767 UBA Expo[86661:70b] Multi-tasking -> Device: YES, App: YES
-2014-09-08 14:42:39.911 UBA Expo[86661:70b] Unlimited access to network resources
-2014-09-08 14:42:41.433 UBA Expo[86661:70b] [CDVTimer][keyboard] 0.132978ms
-2014-09-08 14:42:41.671 UBA Expo[86661:70b] [CDVTimer][statusbar] 237.172008ms
-2014-09-08 14:42:41.672 UBA Expo[86661:70b] [CDVTimer][TotalPluginStartup] 238.931000ms
-2014-09-08 14:42:42.106 UBA Expo[86661:70b] Resetting plugins due to page load.
-2014-09-08 14:42:43.246 UBA Expo[86661:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
-2014-09-08 14:45:14.261 UBA Expo[86661:70b] THREAD WARNING: ['InAppBrowser'] took '367.127930' ms. Plugin should use a background thread.
+2015-01-14 10:55:45.467 UBA Expo[5716:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 10:55:45.479 UBA Expo[5716:70b] Unlimited access to network resources
+2015-01-14 10:55:45.504 UBA Expo[5716:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 10:55:45.505 UBA Expo[5716:70b] [CDVTimer][keyboard] 0.535965ms
+2015-01-14 10:55:45.505 UBA Expo[5716:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 10:55:45.506 UBA Expo[5716:70b] [CDVTimer][statusbar] 0.422001ms
+2015-01-14 10:55:45.506 UBA Expo[5716:70b] [CDVTimer][TotalPluginStartup] 1.887977ms
+2015-01-14 10:55:45.643 UBA Expo[5716:70b] Resetting plugins due to page load.
+2015-01-14 10:55:46.326 UBA Expo[5716:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 10:55:46.331 UBA Expo[5716:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 10:55:46.332 UBA Expo[5716:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 10:55:46.332 UBA Expo[5716:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar1552439581",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 10:55:46.332 UBA Expo[5716:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 10:55:46.333 UBA Expo[5716:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 10:55:46.333 UBA Expo[5716:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1552439582",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-14 11:08:45.412 UBA Expo[5997:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:08:45.424 UBA Expo[5997:70b] Unlimited access to network resources
+2015-01-14 11:08:45.467 UBA Expo[5997:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 11:08:45.468 UBA Expo[5997:70b] [CDVTimer][keyboard] 0.609994ms
+2015-01-14 11:08:45.468 UBA Expo[5997:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 11:08:45.469 UBA Expo[5997:70b] [CDVTimer][statusbar] 0.569999ms
+2015-01-14 11:08:45.469 UBA Expo[5997:70b] [CDVTimer][TotalPluginStartup] 2.196968ms
+2015-01-14 11:08:45.626 UBA Expo[5997:70b] Resetting plugins due to page load.
+2015-01-14 11:08:46.511 UBA Expo[5997:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 11:08:46.516 UBA Expo[5997:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 11:08:46.516 UBA Expo[5997:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:08:46.517 UBA Expo[5997:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar1353547559",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 11:08:46.517 UBA Expo[5997:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 11:08:46.518 UBA Expo[5997:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:08:46.518 UBA Expo[5997:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1353547560",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-14 11:11:05.281 UBA Expo[6280:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:11:05.294 UBA Expo[6280:70b] Unlimited access to network resources
+2015-01-14 11:11:05.319 UBA Expo[6280:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 11:11:05.320 UBA Expo[6280:70b] [CDVTimer][keyboard] 0.685990ms
+2015-01-14 11:11:05.321 UBA Expo[6280:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 11:11:05.321 UBA Expo[6280:70b] [CDVTimer][statusbar] 0.581026ms
+2015-01-14 11:11:05.322 UBA Expo[6280:70b] [CDVTimer][TotalPluginStartup] 2.462029ms
+2015-01-14 11:11:05.457 UBA Expo[6280:70b] Resetting plugins due to page load.
+2015-01-14 11:11:06.256 UBA Expo[6280:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 11:11:06.262 UBA Expo[6280:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 11:11:06.262 UBA Expo[6280:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:11:06.263 UBA Expo[6280:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar1737029635",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 11:11:06.263 UBA Expo[6280:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 11:11:06.263 UBA Expo[6280:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:11:06.264 UBA Expo[6280:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1737029636",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-14 11:13:40.535 UBA Expo[6594:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:13:40.547 UBA Expo[6594:70b] Unlimited access to network resources
+2015-01-14 11:13:40.572 UBA Expo[6594:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 11:13:40.573 UBA Expo[6594:70b] [CDVTimer][keyboard] 0.672996ms
+2015-01-14 11:13:40.574 UBA Expo[6594:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 11:13:40.574 UBA Expo[6594:70b] [CDVTimer][statusbar] 0.533044ms
+2015-01-14 11:13:40.575 UBA Expo[6594:70b] [CDVTimer][TotalPluginStartup] 2.213001ms
+2015-01-14 11:13:40.683 UBA Expo[6594:70b] Resetting plugins due to page load.
+2015-01-14 11:13:41.429 UBA Expo[6594:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 11:13:41.434 UBA Expo[6594:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 11:13:41.434 UBA Expo[6594:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:13:41.435 UBA Expo[6594:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar272209671",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 11:13:41.435 UBA Expo[6594:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 11:13:41.435 UBA Expo[6594:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:13:41.436 UBA Expo[6594:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device272209672",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-14 11:16:05.327 UBA Expo[6814:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:16:05.336 UBA Expo[6814:70b] Unlimited access to network resources
+2015-01-14 11:16:05.355 UBA Expo[6814:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 11:16:05.355 UBA Expo[6814:70b] [CDVTimer][keyboard] 0.569999ms
+2015-01-14 11:16:05.356 UBA Expo[6814:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 11:16:05.356 UBA Expo[6814:70b] [CDVTimer][statusbar] 0.465989ms
+2015-01-14 11:16:05.357 UBA Expo[6814:70b] [CDVTimer][TotalPluginStartup] 2.025008ms
+2015-01-14 11:16:05.400 UBA Expo[6814:70b] Resetting plugins due to page load.
+2015-01-14 11:16:06.066 UBA Expo[6814:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 11:16:06.071 UBA Expo[6814:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 11:16:06.071 UBA Expo[6814:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:16:06.071 UBA Expo[6814:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar1632901447",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 11:16:06.072 UBA Expo[6814:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 11:16:06.072 UBA Expo[6814:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:16:06.073 UBA Expo[6814:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1632901448",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-14 11:19:09.708 UBA Expo[7041:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:19:09.717 UBA Expo[7041:70b] Unlimited access to network resources
+2015-01-14 11:19:09.742 UBA Expo[7041:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-14 11:19:09.742 UBA Expo[7041:70b] [CDVTimer][keyboard] 0.603020ms
+2015-01-14 11:19:09.743 UBA Expo[7041:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-14 11:19:09.743 UBA Expo[7041:70b] [CDVTimer][statusbar] 0.464022ms
+2015-01-14 11:19:09.744 UBA Expo[7041:70b] [CDVTimer][TotalPluginStartup] 2.020001ms
+2015-01-14 11:19:09.789 UBA Expo[7041:70b] Resetting plugins due to page load.
+2015-01-14 11:19:10.636 UBA Expo[7041:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
+2015-01-14 11:19:10.640 UBA Expo[7041:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-14 11:19:10.641 UBA Expo[7041:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:19:10.641 UBA Expo[7041:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar99919934",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-14 11:19:10.641 UBA Expo[7041:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-14 11:19:10.642 UBA Expo[7041:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-14 11:19:10.642 UBA Expo[7041:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device99919935",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
