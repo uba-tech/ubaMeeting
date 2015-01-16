@@ -37,20 +37,20 @@
     <feature name="InAppBrowser">
         <param name="ios-package" value="CDVInAppBrowser" />
     </feature>
-    <icon height="60" src="img/res/icons/ios/Icon-76.png" width="60" />
-    <icon height="120" src="res/icons/ios/Icon-60@2x.png" width="120" />
-    <icon height="76" src="img/res/icons/ios/Icon-76.png" width="76" />
-    <icon height="152" src="res/icons/ios/Icon-76@2x.png" width="152" />
-    <icon height="40" src="img/res/icons/ios/Icon-40.png" width="40" />
-    <icon height="80" src="img/res/icons/ios/Icon-40@2x.png" width="80" />
-    <icon height="57" src="img/res/icons/ios/Icon-29@2x.png" width="57" />
-    <icon height="114" src="img/res/icons/ios/Icon-60@2x.png" width="114" />
-    <icon height="72" src="img/res/icons/ios/Icon-76.png" width="72" />
-    <icon height="144" src="img/icons/ios/Icon-76@2x.png" width="144" />
-    <icon height="29" src="img/res/icons/ios/Icon-29.png" width="29" />
-    <icon height="58" src="img/res/icons/ios/Icon-29@2x.png" width="58" />
-    <icon height="50" src="img/res/icons/ios/Icon-29@3x.png" width="50" />
-    <icon height="100" src="img/res/icons/ios/Icon-60@2x.png" width="100" />
+    <icon height="60" src="img/res/icons/icon-76.png" width="60" />
+    <icon height="120" src="img/res/icons/icon-60@2x.png" width="120" />
+    <icon height="76" src="img/res/icons/icon-76.png" width="76" />
+    <icon height="152" src="img/res/icons/icon-76@2x.png" width="152" />
+    <icon height="40" src="img/res/icons/icon-40.png" width="40" />
+    <icon height="80" src="img/res/icons/ios/icon-40@2x.png" width="80" />
+    <icon height="57" src="img/res/icons/icon-29@2x.png" width="57" />
+    <icon height="114" src="img/res/icons/icon-60@2x.png" width="114" />
+    <icon height="72" src="img/res/icons/icon-76.png" width="72" />
+    <icon height="144" src="img/res/icons/icon-76@2x.png" width="144" />
+    <icon height="29" src="img/res/icons/icon-29.png" width="29" />
+    <icon height="58" src="img/res/icons/icon-29@2x.png" width="58" />
+    <icon height="50" src="img/res/icons/icon-29@3x.png" width="50" />
+    <icon height="100" src="img/res/icons/icon-60@2x.png" width="100" />
     <name>UBA Expo</name>
     <description>
         2015 UBA Fall Meeting &amp; Expo
@@ -67,6 +67,7 @@
     <preference name="phonegap-version" value="3.4.0" />
     <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
     <gap:plugin name="org.apache.cordova.statusbar" />
+    <icon src="img/res/icon.png" />
     <gap:splash gap:density="ldpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
     <gap:splash gap:density="mdpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
     <gap:splash gap:density="hdpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
