@@ -22,6 +22,11 @@
 	    				<img ng-src="{{speaker.sessionImage}}"/>
 	        			{{speaker.session}}
 	      			</ion-item>
+	      			<br>
+	      			<ion-item ui-sref="app.session-detail({ sessionId: speaker.secondId })" class="item-avatar item-text-wrap">
+	    				<img ng-src="{{speaker.sessionImage}}"/>
+	        			{{speaker.secondSession}}
+	      			</ion-item>
 	      			<h2>Bio</h2>
 	      			<p>{{speaker.bio}}</p>
 				</div>

@@ -1,203 +1,83 @@
-2015-01-14 10:55:45.467 UBA Expo[5716:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 10:55:45.479 UBA Expo[5716:70b] Unlimited access to network resources
-2015-01-14 10:55:45.504 UBA Expo[5716:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 10:55:45.505 UBA Expo[5716:70b] [CDVTimer][keyboard] 0.535965ms
-2015-01-14 10:55:45.505 UBA Expo[5716:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 10:55:45.506 UBA Expo[5716:70b] [CDVTimer][statusbar] 0.422001ms
-2015-01-14 10:55:45.506 UBA Expo[5716:70b] [CDVTimer][TotalPluginStartup] 1.887977ms
-2015-01-14 10:55:45.643 UBA Expo[5716:70b] Resetting plugins due to page load.
-2015-01-14 10:55:46.326 UBA Expo[5716:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 10:55:46.331 UBA Expo[5716:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 10:55:46.332 UBA Expo[5716:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 10:55:46.332 UBA Expo[5716:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar1552439581",
+2015-01-20 15:01:05.006 UBA Expo[16966:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-20 15:01:05.230 UBA Expo[16966:70b] Unlimited access to network resources
+2015-01-20 15:01:07.320 UBA Expo[16966:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-20 15:01:07.321 UBA Expo[16966:70b] [CDVTimer][keyboard] 0.699043ms
+2015-01-20 15:01:07.321 UBA Expo[16966:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-20 15:01:07.322 UBA Expo[16966:70b] [CDVTimer][statusbar] 0.453949ms
+2015-01-20 15:01:07.322 UBA Expo[16966:70b] [CDVTimer][TotalPluginStartup] 2.124012ms
+2015-01-20 15:01:09.145 UBA Expo[16966:70b] Resetting plugins due to page load.
+2015-01-20 15:01:10.771 UBA Expo[16966:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
+2015-01-20 15:01:11.418 UBA Expo[16966:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-20 15:01:11.418 UBA Expo[16966:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:01:11.419 UBA Expo[16966:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar235592815",
   "StatusBar",
   "_ready",
   [
 
   ]
 ]
-2015-01-14 10:55:46.332 UBA Expo[5716:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 10:55:46.333 UBA Expo[5716:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 10:55:46.333 UBA Expo[5716:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device1552439582",
+2015-01-20 15:01:11.420 UBA Expo[16966:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-20 15:01:11.420 UBA Expo[16966:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:01:11.421 UBA Expo[16966:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device235592816",
   "Device",
   "getDeviceInfo",
   [
 
   ]
 ]
-2015-01-14 11:08:45.412 UBA Expo[5997:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 11:08:45.424 UBA Expo[5997:70b] Unlimited access to network resources
-2015-01-14 11:08:45.467 UBA Expo[5997:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 11:08:45.468 UBA Expo[5997:70b] [CDVTimer][keyboard] 0.609994ms
-2015-01-14 11:08:45.468 UBA Expo[5997:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 11:08:45.469 UBA Expo[5997:70b] [CDVTimer][statusbar] 0.569999ms
-2015-01-14 11:08:45.469 UBA Expo[5997:70b] [CDVTimer][TotalPluginStartup] 2.196968ms
-2015-01-14 11:08:45.626 UBA Expo[5997:70b] Resetting plugins due to page load.
-2015-01-14 11:08:46.511 UBA Expo[5997:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 11:08:46.516 UBA Expo[5997:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 11:08:46.516 UBA Expo[5997:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:08:46.517 UBA Expo[5997:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar1353547559",
+Terminating in response to SpringBoard's termination.
+2015-01-20 15:17:22.178 UBA Expo[17233:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-20 15:17:22.285 UBA Expo[17233:70b] Unlimited access to network resources
+2015-01-20 15:17:22.376 UBA Expo[17233:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-20 15:17:22.377 UBA Expo[17233:70b] [CDVTimer][keyboard] 0.595987ms
+2015-01-20 15:17:22.377 UBA Expo[17233:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-20 15:17:22.378 UBA Expo[17233:70b] [CDVTimer][statusbar] 0.460029ms
+2015-01-20 15:17:22.378 UBA Expo[17233:70b] [CDVTimer][TotalPluginStartup] 2.085030ms
+2015-01-20 15:17:22.733 UBA Expo[17233:70b] Resetting plugins due to page load.
+2015-01-20 15:17:23.725 UBA Expo[17233:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
+2015-01-20 15:17:23.753 UBA Expo[17233:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-20 15:17:23.753 UBA Expo[17233:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:17:23.754 UBA Expo[17233:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar469811171",
   "StatusBar",
   "_ready",
   [
 
   ]
 ]
-2015-01-14 11:08:46.517 UBA Expo[5997:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 11:08:46.518 UBA Expo[5997:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:08:46.518 UBA Expo[5997:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device1353547560",
+2015-01-20 15:17:23.754 UBA Expo[17233:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-20 15:17:23.754 UBA Expo[17233:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:17:23.755 UBA Expo[17233:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device469811172",
   "Device",
   "getDeviceInfo",
   [
 
   ]
 ]
-2015-01-14 11:11:05.281 UBA Expo[6280:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 11:11:05.294 UBA Expo[6280:70b] Unlimited access to network resources
-2015-01-14 11:11:05.319 UBA Expo[6280:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 11:11:05.320 UBA Expo[6280:70b] [CDVTimer][keyboard] 0.685990ms
-2015-01-14 11:11:05.321 UBA Expo[6280:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 11:11:05.321 UBA Expo[6280:70b] [CDVTimer][statusbar] 0.581026ms
-2015-01-14 11:11:05.322 UBA Expo[6280:70b] [CDVTimer][TotalPluginStartup] 2.462029ms
-2015-01-14 11:11:05.457 UBA Expo[6280:70b] Resetting plugins due to page load.
-2015-01-14 11:11:06.256 UBA Expo[6280:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 11:11:06.262 UBA Expo[6280:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 11:11:06.262 UBA Expo[6280:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:11:06.263 UBA Expo[6280:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar1737029635",
-  "StatusBar",
-  "_ready",
+2015-01-20 15:17:30.037 UBA Expo[17233:70b] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-01-20 15:17:30.037 UBA Expo[17233:70b] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:17:30.037 UBA Expo[17233:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser469811173",
+  "InAppBrowser",
+  "open",
   [
-
+    "http:\/\/mobile.ubabenefits.com\/UBAConIntro\/UBAConPresentations\/tabid\/137\/Default.aspx",
+    "_blank",
+    "location=yes"
   ]
 ]
-2015-01-14 11:11:06.263 UBA Expo[6280:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 11:11:06.263 UBA Expo[6280:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:11:06.264 UBA Expo[6280:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device1737029636",
-  "Device",
-  "getDeviceInfo",
+2015-01-20 15:17:33.701 UBA Expo[17233:70b] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-01-20 15:17:33.701 UBA Expo[17233:70b] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-20 15:17:33.701 UBA Expo[17233:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser469811174",
+  "InAppBrowser",
+  "open",
   [
-
-  ]
-]
-2015-01-14 11:13:40.535 UBA Expo[6594:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 11:13:40.547 UBA Expo[6594:70b] Unlimited access to network resources
-2015-01-14 11:13:40.572 UBA Expo[6594:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 11:13:40.573 UBA Expo[6594:70b] [CDVTimer][keyboard] 0.672996ms
-2015-01-14 11:13:40.574 UBA Expo[6594:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 11:13:40.574 UBA Expo[6594:70b] [CDVTimer][statusbar] 0.533044ms
-2015-01-14 11:13:40.575 UBA Expo[6594:70b] [CDVTimer][TotalPluginStartup] 2.213001ms
-2015-01-14 11:13:40.683 UBA Expo[6594:70b] Resetting plugins due to page load.
-2015-01-14 11:13:41.429 UBA Expo[6594:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 11:13:41.434 UBA Expo[6594:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 11:13:41.434 UBA Expo[6594:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:13:41.435 UBA Expo[6594:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar272209671",
-  "StatusBar",
-  "_ready",
-  [
-
-  ]
-]
-2015-01-14 11:13:41.435 UBA Expo[6594:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 11:13:41.435 UBA Expo[6594:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:13:41.436 UBA Expo[6594:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device272209672",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2015-01-14 11:16:05.327 UBA Expo[6814:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 11:16:05.336 UBA Expo[6814:70b] Unlimited access to network resources
-2015-01-14 11:16:05.355 UBA Expo[6814:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 11:16:05.355 UBA Expo[6814:70b] [CDVTimer][keyboard] 0.569999ms
-2015-01-14 11:16:05.356 UBA Expo[6814:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 11:16:05.356 UBA Expo[6814:70b] [CDVTimer][statusbar] 0.465989ms
-2015-01-14 11:16:05.357 UBA Expo[6814:70b] [CDVTimer][TotalPluginStartup] 2.025008ms
-2015-01-14 11:16:05.400 UBA Expo[6814:70b] Resetting plugins due to page load.
-2015-01-14 11:16:06.066 UBA Expo[6814:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 11:16:06.071 UBA Expo[6814:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 11:16:06.071 UBA Expo[6814:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:16:06.071 UBA Expo[6814:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar1632901447",
-  "StatusBar",
-  "_ready",
-  [
-
-  ]
-]
-2015-01-14 11:16:06.072 UBA Expo[6814:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 11:16:06.072 UBA Expo[6814:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:16:06.073 UBA Expo[6814:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device1632901448",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2015-01-14 11:19:09.708 UBA Expo[7041:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-14 11:19:09.717 UBA Expo[7041:70b] Unlimited access to network resources
-2015-01-14 11:19:09.742 UBA Expo[7041:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-14 11:19:09.742 UBA Expo[7041:70b] [CDVTimer][keyboard] 0.603020ms
-2015-01-14 11:19:09.743 UBA Expo[7041:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-14 11:19:09.743 UBA Expo[7041:70b] [CDVTimer][statusbar] 0.464022ms
-2015-01-14 11:19:09.744 UBA Expo[7041:70b] [CDVTimer][TotalPluginStartup] 2.020001ms
-2015-01-14 11:19:09.789 UBA Expo[7041:70b] Resetting plugins due to page load.
-2015-01-14 11:19:10.636 UBA Expo[7041:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html
-2015-01-14 11:19:10.640 UBA Expo[7041:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-14 11:19:10.641 UBA Expo[7041:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:19:10.641 UBA Expo[7041:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar99919934",
-  "StatusBar",
-  "_ready",
-  [
-
-  ]
-]
-2015-01-14 11:19:10.641 UBA Expo[7041:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-14 11:19:10.642 UBA Expo[7041:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-14 11:19:10.642 UBA Expo[7041:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device99919935",
-  "Device",
-  "getDeviceInfo",
-  [
-
-  ]
-]
-2015-01-15 09:26:33.438 UBA Expo[10960:70b] Multi-tasking -> Device: YES, App: YES
-2015-01-15 09:26:33.619 UBA Expo[10960:70b] Unlimited access to network resources
-2015-01-15 09:26:35.048 UBA Expo[10960:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
-2015-01-15 09:26:35.049 UBA Expo[10960:70b] [CDVTimer][keyboard] 0.679016ms
-2015-01-15 09:26:35.049 UBA Expo[10960:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
-2015-01-15 09:26:35.050 UBA Expo[10960:70b] [CDVTimer][statusbar] 0.533998ms
-2015-01-15 09:26:35.050 UBA Expo[10960:70b] [CDVTimer][TotalPluginStartup] 2.330959ms
-2015-01-15 09:26:35.349 UBA Expo[10960:70b] Resetting plugins due to page load.
-2015-01-15 09:26:36.312 UBA Expo[10960:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
-2015-01-15 09:26:36.345 UBA Expo[10960:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
-2015-01-15 09:26:36.345 UBA Expo[10960:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-15 09:26:36.346 UBA Expo[10960:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "StatusBar1444008495",
-  "StatusBar",
-  "_ready",
-  [
-
-  ]
-]
-2015-01-15 09:26:36.347 UBA Expo[10960:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
-2015-01-15 09:26:36.347 UBA Expo[10960:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
-2015-01-15 09:26:36.347 UBA Expo[10960:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
-  "Device1444008496",
-  "Device",
-  "getDeviceInfo",
-  [
-
+    "http:\/\/mobile.ubabenefits.com\/UBAConIntro\/UBAConFeedback\/tabid\/139\/Default.aspx",
+    "_blank",
+    "location=yes"
   ]
 ]
