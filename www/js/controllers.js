@@ -128,11 +128,11 @@ angular.module('starter.controllers', ['ionic'])
         };
         
         $scope.openUrl = function() {
-    		var ref = window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_blank', 'location=yes');
+    		var ref = window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConPresentations/tabid/137/Default.aspx', '_system', 'location=yes');
     	};
     	
     	$scope.openFeedback = function() {
-    		var refFeedback = window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConFeedback/tabid/139/Default.aspx', '_blank', 'location=yes');
+    		var refFeedback = window.open('http://mobile.ubabenefits.com/UBAConIntro/UBAConFeedback/tabid/139/Default.aspx', '_system', 'location=yes');
     	};
     })
     
