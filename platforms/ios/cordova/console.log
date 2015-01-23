@@ -423,3 +423,44 @@ Terminating in response to SpringBoard's termination.
 
   ]
 ]
+2015-01-23 09:57:38.877 UBA Expo[24044:70b] Multi-tasking -> Device: YES, App: YES
+2015-01-23 09:57:38.912 UBA Expo[24044:70b] Unlimited access to network resources
+2015-01-23 09:57:38.958 UBA Expo[24044:70b] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-01-23 09:57:38.958 UBA Expo[24044:70b] [CDVTimer][keyboard] 0.533998ms
+2015-01-23 09:57:38.959 UBA Expo[24044:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-01-23 09:57:38.959 UBA Expo[24044:70b] [CDVTimer][statusbar] 0.443995ms
+2015-01-23 09:57:38.960 UBA Expo[24044:70b] [CDVTimer][TotalPluginStartup] 1.962006ms
+2015-01-23 09:57:39.445 UBA Expo[24044:70b] Resetting plugins due to page load.
+2015-01-23 09:57:40.537 UBA Expo[24044:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2E502009-7E9E-48A0-A327-40D448CF800D/UBA%20Expo.app/www/index.html#/intro
+2015-01-23 09:57:40.559 UBA Expo[24044:70b] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-01-23 09:57:40.560 UBA Expo[24044:70b] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-23 09:57:40.560 UBA Expo[24044:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "StatusBar133511807",
+  "StatusBar",
+  "_ready",
+  [
+
+  ]
+]
+2015-01-23 09:57:40.561 UBA Expo[24044:70b] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-01-23 09:57:40.561 UBA Expo[24044:70b] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-23 09:57:40.561 UBA Expo[24044:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device133511808",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-01-23 09:58:24.461 UBA Expo[24044:70b] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-01-23 09:58:24.461 UBA Expo[24044:70b] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-23 09:58:24.461 UBA Expo[24044:70b] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser133511809",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/mobile.ubabenefits.com\/UBAConIntro\/UBAConPresentations\/tabid\/137\/Default.aspx",
+    "_blank",
+    "location=yes"
+  ]
+]
