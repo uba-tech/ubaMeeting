@@ -65,7 +65,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="phonegap-version" value="3.4.0" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
+    <gap:plugin name="org.li8.inappbrowser" version="0.1" />
     <gap:plugin name="org.apache.cordova.statusbar" />
     <icon src="img/res/icon.png" />
     <gap:splash gap:density="ldpi" gap:platform="android" src="img/res/splash/screen-android-portrait-hd.png" />
